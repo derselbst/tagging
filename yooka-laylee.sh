@@ -1,4 +1,5 @@
- 
+# list of all wem files shipped with the linux version of Yooka-Laylee
+
 mv 13954808.wem "Tribalstack Tropics - Nimble Race 1. wem"
 mv 14799336.wem "Tribalstack Tropics - Monument??. wem"
 mv 22160869.wem "Retrox - ? (reverse).wem"
