@@ -1,7 +1,5 @@
 # list of all wem files shipped with the linux version of Yooka-Laylee
 
-mv 13954808.wem "Tribalstack Tropics - Nimble Race 1. wem"
-mv 14799336.wem "Tribalstack Tropics - Monument??. wem"
 mv 22160869.wem "Retrox - ? (reverse).wem"
 mv 31189334.wem "Glitterglaze Glacier - ??.wem"
 mv 47632872.wem "Retrox - ?1 (reverse).wem"
@@ -9,7 +7,6 @@ mv 49294568.wem "Ambiance - Water.wem"
 mv 53628394.wem "Ambiance - Thunder.wem"
 mv 53635858.wem "Tribalstack Tropics - ??? Temple?.wem"
 mv 60249255.wem "Retrox - ?2 (reverse).wem"
-mv 63269928.wem "Tribalstack Tropics??? - Aquatic.wem"
 mv 72868789.wem "Retrox - ?3 (reverse).wem"
 
 mv 101536534.wem "??? - Aquatic.wem"
@@ -20,8 +17,6 @@ mv 134263814.wem "some aquatic.wem"
 
 mv 143756378.wem "Retrox - ?4 (reverse).wem"
 
-mv 162230282.wem "Tribalstack Tropics - Intro.wem"
-mv 162895803.wem "Tribalstack Tropics - Aquatic.wem"
 
 mv 191161704.wem "David Wise's leaked thing 2.wem"
 mv 199435315.wem "Hivory Towers - ??.wem"
@@ -31,7 +26,6 @@ mv 225243248.wem "Tribalstack Tropics - ???.wem"
 
 
 mv 238147918.wem "Tribalstack Tropics - Nimble Race 1.wem"
-mv 240416347.wem "Tribalstack Tropics - Aquatic Intro.wem"
 
 mv 250663170.wem "Moodymaze Marsh - Aquatic.wem"
 
@@ -40,41 +34,84 @@ mv 84745841.wem "Moodymaze Marsh - Main.wem"
 mv 251664514.wem "Moodymaze Marsh - ??.wem"
 mv 253636843.wem "Moodymaze Marsh - ???.wem"
 
-mv 257626415.wem "Tribalstack Tropics - ????.wem"
 
-mv 271662028.wem "Tribalstack Tropics - Main.wem"
-mv 278600966.wem "Slurp State ended.wem"
-mv 287648828.wem "TribalStack Tropics - Monument?.wem"
+mv 278600966.wem "SFX - Slurp State ended.wem"
 
 mv 297309298.wem "Glitterglaze Glacier - Main.wem"
 mv 297472422.wem "Hivory Towers - Main.wem"
-mv 298777168.wem "Tribalstack Tropics - Boss - The Great Rampo.wem"
 
 mv 304269507.wem "Retrox - ?4 (reverse?).wem"
 mv 332178222.wem "Retrox - ?5 (reverse).wem"
 
 
 mv 332971003.wem "Main Theme.wem"
+mv 11841553.wem "Main Theme - Ambiance - Water,Birds.wem"
 
 mv 353467983.wem "Death.wem"
 mv 357001001.wem "Glitterglaze Glacier - Main Intro.wem"
 mv 362717196.wem "Retrox - ?6 (reverse).wem"
 
-mv 386756905.wem "Tribalstack Tropics - Boss - The Great Rampo again.wem"
-mv 393135791.wem "Shipwreck Creek.wem"
-mv 395580153.wem "Tribalstack Tropics - Nimble Race 1.wem"
-mv 398883026.wem "Tribalstack Tropics - Monument Intro.wem"
+mv 393135791.wem "Shipwreck Creek - Main.wem"
+mv 626606754.wem "Shipwreck Creek - Aquatic.wem"
 
 mv 405609706.wem "Retrox Arcade.wem"
 mv 405732086.wem "Glitterglaze Glacier - Boss - Brrreeze Blok.wem"
-mv 406031902.wem "Collect Pagie.wem"
+mv 406031902.wem "SFX - Collect Pagie.wem"
 
-1003159852.wem
-1003471996.wem
+
+# 1003159852.wem
+mv 1003471996.wem "Ambiance - Noise.wem"
+mv 1038850781.wem "Hivory Towers - ???.wem"
+mv 1052765802.wem "Ambiance - Water.wem"
+mv 370198222.wem "Hivory Towers - SFX.wem"
+
+mv 446598529.wem "Ambiance.wem"
+mv 540650590.wem "Hivory Towers - Glitterglaze Glacier.wem"
+mv 838677736.wem "Ambiance.wem"
+mv 890535849.wem "Hivory Towers - Aquatic.wem"
+mv 939796231.wem "Hivory Towers - Main.wem"
+
+mv 424034435.wem "Ambiance - Wind.wem"
+mv 524597222.wem "Ambiance - Noise+Birds.wem"
+mv 518448063.wem "Ambiance - Birds.wem"
+mv 943835335.wem "Ambiance - Fire.wem"
+mv 720667710.wem "Ambiance - Insects.wem"
+
+mv 1005700745.wem "Hivory Towers - ?!?.wem"
+mv 988991861.wem  "Hivory Towers - ?!?.wem" # duplicate of 10057*
+
+mv 512165635.wem "Hivory Towers - Toxic Grassland.wem" 
+
+
+mv 722248606.wem "Tribalstack Tropics - Main (quieter).wem"
+mv 533380088.wem "Tribalstack Tropics - Main.wem"
+mv 271662028.wem "Tribalstack Tropics - Main (Early?) (long+unlooped+fadeout).wem"
+mv 636337061.wem "Tribalstack Tropics - Main (immediate start).wem"
+
+mv 63269928.wem  "Tribalstack Tropics - Aquatic.wem"
+mv 240416347.wem "Tribalstack Tropics - Duke's Temple Intro.wem"
+mv 855337769.wem "Tribalstack Tropics - Duke's Temple.wem"
+mv 162895803.wem "Tribalstack Tropics - Duke's Temple (unlooped).wem"
+mv 630701173.wem "Tribalstack Tropics - Duke's Temple (again, not_used_in_game).wem"
+mv 844016443.wem "Tribalstack Tropics - Duke's Temple (again2, not_used_in_game).wem"
+
+mv 529464369.wem "Tribalstack Tropics - Corplet Camp.wem"
+mv 257626415.wem "Tribalstack Tropics - Corplet Camp (again, not_used_in_game).wem"
+
+mv 398883026.wem "Tribalstack Tropics - Monument Intro.wem"
+mv 162230282.wem "Tribalstack Tropics - Monument Intro.wem"
+mv 287648828.wem "Tribalstack Tropics - Monument.wem"
+mv 14799336.wem  "Tribalstack Tropics - Monument (again, not_used_in_game).wem"
+
+mv 298777168.wem "Tribalstack Tropics - Boss - The Great Rampo.wem"
+mv 386756905.wem "Tribalstack Tropics - Boss - The Great Rampo again.wem"
+
+mv 395580153.wem "Tribalstack Tropics - Nimble Race 1.wem"
+mv 13954808.wem  "Tribalstack Tropics - Nimble Race 1 (unlooped). wem"
+
 1004175105.wem
 1004707711.wem
 1005096691.wem
-1005700745.wem
 1006406196.wem
 1008935718.wem
 1010807917.wem
@@ -87,12 +124,11 @@ mv 406031902.wem "Collect Pagie.wem"
 1025733604.wem
 1029255641.wem
 1035426249.wem
-1038850781.wem
 1039566825.wem
 1041573570.wem
 1048738159.wem
 1051348951.wem
-1052765802.wem
+
 105394285.wem
 1055128299.wem
 1055798865.wem
@@ -151,7 +187,7 @@ mv 406031902.wem "Collect Pagie.wem"
 351730250.wem
 369183907.wem
 369864684.wem
-370198222.wem
+
 376828056.wem
 377232333.wem
 382241610.wem
@@ -164,11 +200,9 @@ mv 406031902.wem "Collect Pagie.wem"
 412038225.wem
 416075368.wem
 419992515.wem
-424034435.wem
 425157647.wem
 431439255.wem
 431661253.wem
-446598529.wem
 457968170.wem
 461690759.wem
 468160550.wem
@@ -190,17 +224,13 @@ mv 406031902.wem "Collect Pagie.wem"
 512165635.wem
 512189928.wem
 517798599.wem
-518448063.wem
 521037595.wem
 523359880.wem
-524597222.wem
-529464369.wem
 532707470.wem
 533380088.wem
 533849150.wem
 538090783.wem
 540059236.wem
-540650590.wem
 547612741.wem
 549400600.wem
 551659470.wem
@@ -223,12 +253,9 @@ mv 406031902.wem "Collect Pagie.wem"
 612946724.wem
 615517057.wem
 619703811.wem
-626606754.wem
 629873387.wem
-630701173.wem
 631007620.wem
 635329926.wem
-636337061.wem
 641067179.wem
 643101512.wem
 647222234.wem
@@ -254,9 +281,7 @@ mv 406031902.wem "Collect Pagie.wem"
 715352000.wem
 717672738.wem
 717876552.wem
-720667710.wem
 721125978.wem
-722248606.wem
 722727372.wem
 725652065.wem
 726122661.wem
@@ -299,12 +324,9 @@ mv 406031902.wem "Collect Pagie.wem"
 833289157.wem
 836041078.wem
 836398535.wem
-838677736.wem
 839239894.wem
-844016443.wem
 847466896.wem
 849647996.wem
-855337769.wem
 861876207.wem
 865430140.wem
 868394772.wem
@@ -313,7 +335,6 @@ mv 406031902.wem "Collect Pagie.wem"
 880777157.wem
 883279601.wem
 889278688.wem
-890535849.wem
 904259733.wem
 905180337.wem
 905636539.wem
@@ -332,11 +353,9 @@ mv 406031902.wem "Collect Pagie.wem"
 927972605.wem
 930992084.wem
 938733566.wem
-939796231.wem
 940311187.wem
 942605757.wem
 943527140.wem
-943835335.wem
 949309814.wem
 950477509.wem
 951630740.wem
@@ -350,7 +369,6 @@ mv 406031902.wem "Collect Pagie.wem"
 972616824.wem
 983178884.wem
 987976064.wem
-988991861.wem
 993276153.wem
 995363164.wem
 996207960.wem
