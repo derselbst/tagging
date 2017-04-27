@@ -1,11 +1,18 @@
 # list of all wem files shipped with the linux version of Yooka-Laylee
 
+# most tunes are looped. there are unlooped versions of a theme. it seems
+# like these tunes are replacing the looped sections of their respective 
+# looped tunes. e.g. start playing a looped piece, when it reaches the end
+# of its loop it doesnt simply loop back. instead it plays the unlooped version
+# which appears to have a slightly different tune. when unlooped section played,
+# playhead rewinds to beginning of former looped section.
+
 mv 22160869.wem "Retrox - ? (reverse).wem"
-mv 31189334.wem "Glitterglaze Glacier - ??.wem"
 mv 47632872.wem "Retrox - ?1 (reverse).wem"
 mv 49294568.wem "Ambiance - Water.wem"
 mv 53628394.wem "Ambiance - Thunder.wem"
-mv 53635858.wem "Tribalstack Tropics - ??? Temple?.wem"
+mv 245107061.wem "Ambiance - Noise.wem"
+
 mv 60249255.wem "Retrox - ?2 (reverse).wem"
 mv 72868789.wem "Retrox - ?3 (reverse).wem"
 
@@ -21,11 +28,6 @@ mv 143756378.wem "Retrox - ?4 (reverse).wem"
 mv 191161704.wem "David Wise's leaked thing 2.wem"
 mv 199435315.wem "Hivory Towers - ??.wem"
 
-mv 217686622.wem "Tribalstack Tropics - ???.wem"
-mv 225243248.wem "Tribalstack Tropics - ???.wem"
-
-
-mv 238147918.wem "Tribalstack Tropics - Nimble Race 1.wem"
 
 mv 250663170.wem "Moodymaze Marsh - Aquatic.wem"
 
@@ -33,11 +35,11 @@ mv 69984211.wem "Moodymaze Marsh - Some Cave???.wem"
 mv 84745841.wem "Moodymaze Marsh - Main.wem"
 mv 251664514.wem "Moodymaze Marsh - ??.wem"
 mv 253636843.wem "Moodymaze Marsh - ???.wem"
+mv 847466896.wem "Moodymaze Marsh - ????.wem"
 
 
 mv 278600966.wem "SFX - Slurp State ended.wem"
 
-mv 297309298.wem "Glitterglaze Glacier - Main.wem"
 mv 297472422.wem "Hivory Towers - Main.wem"
 
 mv 304269507.wem "Retrox - ?4 (reverse?).wem"
@@ -45,19 +47,17 @@ mv 332178222.wem "Retrox - ?5 (reverse).wem"
 
 
 mv 332971003.wem "Main Theme.wem"
-mv 11841553.wem "Main Theme - Ambiance - Water,Birds.wem"
+mv 11841553.wem  "Main Theme - Ambiance - Water,Birds.wem"
 
-mv 353467983.wem "Death.wem"
-mv 357001001.wem "Glitterglaze Glacier - Main Intro.wem"
+mv 353467983.wem "SFX - Death.wem"
 mv 362717196.wem "Retrox - ?6 (reverse).wem"
 
 mv 393135791.wem "Shipwreck Creek - Main.wem"
 mv 626606754.wem "Shipwreck Creek - Aquatic.wem"
 
 mv 405609706.wem "Retrox Arcade.wem"
-mv 405732086.wem "Glitterglaze Glacier - Boss - Brrreeze Blok.wem"
-mv 406031902.wem "SFX - Collect Pagie.wem"
-
+mv 406031902.wem "SFX - Collect Pagie (short).wem"
+mv 532707470.wem "SFX - Collect Pagie (long).wem"
 
 # 1003159852.wem
 mv 1003471996.wem "Ambiance - Noise.wem"
@@ -67,7 +67,7 @@ mv 370198222.wem "Hivory Towers - SFX.wem"
 
 mv 446598529.wem "Ambiance.wem"
 mv 540650590.wem "Hivory Towers - Glitterglaze Glacier.wem"
-mv 838677736.wem "Ambiance.wem"
+mv 838677736.wem "Ambiance - Environment.wem"
 mv 890535849.wem "Hivory Towers - Aquatic.wem"
 mv 939796231.wem "Hivory Towers - Main.wem"
 
@@ -76,11 +76,13 @@ mv 524597222.wem "Ambiance - Noise+Birds.wem"
 mv 518448063.wem "Ambiance - Birds.wem"
 mv 943835335.wem "Ambiance - Fire.wem"
 mv 720667710.wem "Ambiance - Insects.wem"
+mv 983178884.wem "Ambiance - Wind2.wem"
 
 mv 1005700745.wem "Hivory Towers - ?!?.wem"
 mv 988991861.wem  "Hivory Towers - ?!?.wem" # duplicate of 10057*
 
 mv 512165635.wem "Hivory Towers - Toxic Grassland.wem" 
+
 
 
 mv 722248606.wem "Tribalstack Tropics - Main (quieter).wem"
@@ -97,17 +99,34 @@ mv 844016443.wem "Tribalstack Tropics - Duke's Temple (again2, not_used_in_game)
 
 mv 529464369.wem "Tribalstack Tropics - Corplet Camp.wem"
 mv 257626415.wem "Tribalstack Tropics - Corplet Camp (again, not_used_in_game).wem"
+mv 53635858.wem  "Tribalstack Tropics - Corplet Camp (again2, not_used_in_game).wem"
+mv 217686622.wem "Tribalstack Tropics - Corplet Camp (again3, not_used_in_game).wem"
+mv 225243248.wem "Tribalstack Tropics - Corplet Camp (again4, not_used_in_game).wem"
 
 mv 398883026.wem "Tribalstack Tropics - Monument Intro.wem"
 mv 162230282.wem "Tribalstack Tropics - Monument Intro.wem"
 mv 287648828.wem "Tribalstack Tropics - Monument.wem"
 mv 14799336.wem  "Tribalstack Tropics - Monument (again, not_used_in_game).wem"
+mv 480460865.wem "Tribalstack Tropics - Monument (again2, not_used_in_game).wem"
 
 mv 298777168.wem "Tribalstack Tropics - Boss - The Great Rampo.wem"
 mv 386756905.wem "Tribalstack Tropics - Boss - The Great Rampo again.wem"
 
 mv 395580153.wem "Tribalstack Tropics - Nimble Race 1.wem"
-mv 13954808.wem  "Tribalstack Tropics - Nimble Race 1 (unlooped). wem"
+mv 238147918.wem "Tribalstack Tropics - Nimble Race 1 (again, unlooped).wem"
+mv 13954808.wem  "Tribalstack Tropics - Nimble Race 1 (again2, unlooped). wem"
+
+
+
+mv 148483046.wem "Glitterglaze Glacier - Icymetric Palace.wem"
+mv 31189334.wem  "Glitterglaze Glacier - Icymetric Palace (unlooped).wem"
+mv 688300463.wem "Glitterglaze Glacier - Main.wem"
+mv 357001001.wem "Glitterglaze Glacier - Main Intro.wem"
+mv 405732086.wem "Glitterglaze Glacier - Boss - Brrreeze Blok.wem"
+mv 484951464.wem "Glitterglaze Glacier - Aquatic.wem"
+mv 547612741.wem "Glitterglaze Glacier - Gloomy Gem Grotto.wem"
+mv 676958470.wem "Glitterglaze Glacier - Crystalline Cave.wem"
+mv 297309298.wem "Glitterglaze Glacier - Crystalline Cave (unlooped).wem"
 
 1004175105.wem
 1004707711.wem
@@ -149,7 +168,6 @@ mv 13954808.wem  "Tribalstack Tropics - Nimble Race 1 (unlooped). wem"
 137821641.wem
 142316651.wem
 142937143.wem
-148483046.wem
 178163251.wem
 186598022.wem
 189166703.wem
@@ -166,7 +184,6 @@ mv 13954808.wem  "Tribalstack Tropics - Nimble Race 1 (unlooped). wem"
 235243822.wem
 236003763.wem
 243511133.wem
-245107061.wem
 263283307.wem
 285554117.wem
 285625361.wem
@@ -211,8 +228,6 @@ mv 13954808.wem  "Tribalstack Tropics - Nimble Race 1 (unlooped). wem"
 478008553.wem
 478721635.wem
 479353201.wem
-480460865.wem
-484951464.wem
 485085160.wem
 493511128.wem
 503171492.wem
@@ -221,12 +236,10 @@ mv 13954808.wem  "Tribalstack Tropics - Nimble Race 1 (unlooped). wem"
 505173011.wem
 509096205.wem
 511099044.wem
-512165635.wem
 512189928.wem
 517798599.wem
 521037595.wem
 523359880.wem
-532707470.wem
 533380088.wem
 533849150.wem
 538090783.wem
@@ -262,7 +275,6 @@ mv 13954808.wem  "Tribalstack Tropics - Nimble Race 1 (unlooped). wem"
 664424705.wem
 665137701.wem
 676601034.wem
-676958470.wem
 677278999.wem
 680176587.wem
 680649174.wem
@@ -270,7 +282,6 @@ mv 13954808.wem  "Tribalstack Tropics - Nimble Race 1 (unlooped). wem"
 683031846.wem
 685969381.wem
 686836984.wem
-688300463.wem
 691969138.wem
 693539848.wem
 695192682.wem
@@ -325,7 +336,6 @@ mv 13954808.wem  "Tribalstack Tropics - Nimble Race 1 (unlooped). wem"
 836041078.wem
 836398535.wem
 839239894.wem
-847466896.wem
 849647996.wem
 861876207.wem
 865430140.wem
@@ -367,7 +377,6 @@ mv 13954808.wem  "Tribalstack Tropics - Nimble Race 1 (unlooped). wem"
 969611759.wem
 972374786.wem
 972616824.wem
-983178884.wem
 987976064.wem
 993276153.wem
 995363164.wem
