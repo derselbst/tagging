@@ -88,7 +88,7 @@ mv 512165635.wem "Hivory Towers - Toxic Grassland.wem"
 mv 722248606.wem "Tribalstack Tropics - Main (quieter).wem"
 mv 533380088.wem "Tribalstack Tropics - Main.wem"
 mv 271662028.wem "Tribalstack Tropics - Main (Early?) (long+unlooped+fadeout).wem"
-mv 636337061.wem "Tribalstack Tropics - Main (immediate start).wem"
+mv 636337061.wem "Tribalstack Tropics - Main (unlooped).wem"
 
 mv 63269928.wem  "Tribalstack Tropics - Aquatic.wem"
 mv 240416347.wem "Tribalstack Tropics - Duke's Temple Intro.wem"
@@ -121,12 +121,20 @@ mv 13954808.wem  "Tribalstack Tropics - Nimble Race 1 (again2, unlooped). wem"
 mv 148483046.wem "Glitterglaze Glacier - Icymetric Palace.wem"
 mv 31189334.wem  "Glitterglaze Glacier - Icymetric Palace (unlooped).wem"
 mv 688300463.wem "Glitterglaze Glacier - Main.wem"
+mv 583504928.wem "Glitterglaze Glacier - Main (unlooped).wem"
 mv 357001001.wem "Glitterglaze Glacier - Main Intro.wem"
+mv 641067179.wem "Glitterglaze Glacier - Main Intro2.wem"
 mv 405732086.wem "Glitterglaze Glacier - Boss - Brrreeze Blok.wem"
 mv 484951464.wem "Glitterglaze Glacier - Aquatic.wem"
 mv 547612741.wem "Glitterglaze Glacier - Gloomy Gem Grotto.wem"
 mv 676958470.wem "Glitterglaze Glacier - Crystalline Cave.wem"
 mv 297309298.wem "Glitterglaze Glacier - Crystalline Cave (unlooped).wem"
+
+mv 1015079427.wem "Dr. Quack's Quack-Fire Quiz.wem"
+
+mv 581189516.wem "SFX - Jingle Bells.wem"
+
+mv 647222234.wem "Retrox Arcade - ?.wem"
 
 1004175105.wem
 1004707711.wem
@@ -136,7 +144,7 @@ mv 297309298.wem "Glitterglaze Glacier - Crystalline Cave (unlooped).wem"
 1010807917.wem
 1012144986.wem
 1014835385.wem
-1015079427.wem
+
 
 1018588088.wem
 1022251749.wem
@@ -252,8 +260,6 @@ mv 297309298.wem "Glitterglaze Glacier - Crystalline Cave (unlooped).wem"
 556002834.wem
 565897698.wem
 570519491.wem
-581189516.wem
-583504928.wem
 589136190.wem
 592774655.wem
 594567569.wem
@@ -269,9 +275,7 @@ mv 297309298.wem "Glitterglaze Glacier - Crystalline Cave (unlooped).wem"
 629873387.wem
 631007620.wem
 635329926.wem
-641067179.wem
 643101512.wem
-647222234.wem
 664424705.wem
 665137701.wem
 676601034.wem
