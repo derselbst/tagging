@@ -7,14 +7,15 @@
 # which appears to have a slightly different tune. when unlooped section played,
 # playhead rewinds to beginning of former looped section.
 
-mv 22160869.wem "Retrox - ? (reverse).wem"
-mv 47632872.wem "Retrox - ?1 (reverse).wem"
+mv 22160869.wem "Rextro - ? (reverse).wem"
+mv 47632872.wem "Rextro - ?1 (reverse).wem"
 mv 49294568.wem "Ambiance - Water.wem"
+mv 847466896.wem "Ambiance - Water.wem"
 mv 53628394.wem "Ambiance - Thunder.wem"
 mv 245107061.wem "Ambiance - Noise.wem"
 
-mv 60249255.wem "Retrox - ?2 (reverse).wem"
-mv 72868789.wem "Retrox - ?3 (reverse).wem"
+mv 60249255.wem "Rextro - ?2 (reverse).wem"
+mv 72868789.wem "Rextro - ?3 (reverse).wem"
 
 mv 101536534.wem "??? - Aquatic.wem"
 mv 112592897.wem "David Wise's leaked thing.wem"
@@ -22,7 +23,7 @@ mv 113086865.wem "Collect Playtonic Coin.wem"
 mv 121161360.wem "some reverse.wem"
 mv 134263814.wem "some aquatic.wem"
 
-mv 143756378.wem "Retrox - ?4 (reverse).wem"
+mv 143756378.wem "Rextro - ?4 (reverse).wem"
 
 
 mv 191161704.wem "David Wise's leaked thing 2.wem"
@@ -33,29 +34,28 @@ mv 250663170.wem "Moodymaze Marsh - Aquatic.wem"
 
 mv 69984211.wem "Moodymaze Marsh - Some Cave???.wem"
 mv 84745841.wem "Moodymaze Marsh - Main.wem"
-mv 251664514.wem "Moodymaze Marsh - ??.wem"
+mv 251664514.wem "Moodymaze Marsh - Deep Swamp.wem"
 mv 253636843.wem "Moodymaze Marsh - ???.wem"
-mv 847466896.wem "Moodymaze Marsh - ????.wem"
-
+mv 740929881.wem "Moodymaze Marsh - Even Deeper Swap (expanded World).wem"
 
 mv 278600966.wem "SFX - Slurp State ended.wem"
 
 mv 297472422.wem "Hivory Towers - Main.wem"
 
-mv 304269507.wem "Retrox - ?4 (reverse?).wem"
-mv 332178222.wem "Retrox - ?5 (reverse).wem"
+mv 304269507.wem "Rextro - ?4 (reverse?).wem"
+mv 332178222.wem "Rextro - ?5 (reverse).wem"
 
 
 mv 332971003.wem "Main Theme.wem"
 mv 11841553.wem  "Main Theme - Ambiance - Water,Birds.wem"
 
 mv 353467983.wem "SFX - Death.wem"
-mv 362717196.wem "Retrox - ?6 (reverse).wem"
+mv 362717196.wem "Rextro - ?6 (reverse).wem"
 
 mv 393135791.wem "Shipwreck Creek - Main.wem"
 mv 626606754.wem "Shipwreck Creek - Aquatic.wem"
 
-mv 405609706.wem "Retrox Arcade.wem"
+mv 405609706.wem "Rextro Arcade.wem"
 mv 406031902.wem "SFX - Collect Pagie (short).wem"
 mv 532707470.wem "SFX - Collect Pagie (long).wem"
 
@@ -63,7 +63,7 @@ mv 532707470.wem "SFX - Collect Pagie (long).wem"
 mv 1003471996.wem "Ambiance - Noise.wem"
 mv 1038850781.wem "Hivory Towers - ???.wem"
 mv 1052765802.wem "Ambiance - Water.wem"
-mv 370198222.wem "Hivory Towers - SFX.wem"
+mv 370198222.wem "SFX - ???.wem"
 
 mv 446598529.wem "Ambiance.wem"
 mv 540650590.wem "Hivory Towers - Glitterglaze Glacier.wem"
@@ -78,36 +78,40 @@ mv 943835335.wem "Ambiance - Fire.wem"
 mv 720667710.wem "Ambiance - Insects.wem"
 mv 983178884.wem "Ambiance - Wind2.wem"
 
+mv 186598022.wem "Ambiance - Swamp.wem"
+mv 189166703.wem "Ambiance - Heavy Wind.wem"
+
 mv 1005700745.wem "Hivory Towers - ?!?.wem"
 mv 988991861.wem  "Hivory Towers - ?!?.wem" # duplicate of 10057*
 
-mv 512165635.wem "Hivory Towers - Toxic Grassland.wem" 
+mv 512165635.wem "Hivory Towers - Toxic Grassland.wem"
+mv 868394772.wem "Hivory Towers - To The Top.wem"
 
 
 
-mv 722248606.wem "Tribalstack Tropics - Main (quieter).wem"
+mv 722248606.wem "Tribalstack Tropics - Main (quieter,not_used_by_game).wem"
+mv 271662028.wem "Tribalstack Tropics - Main (Early?) (long,unlooped,fadeout,not_used_by_game).wem"
 mv 533380088.wem "Tribalstack Tropics - Main.wem"
-mv 271662028.wem "Tribalstack Tropics - Main (Early?) (long+unlooped+fadeout).wem"
 mv 636337061.wem "Tribalstack Tropics - Main (unlooped).wem"
 
 mv 63269928.wem  "Tribalstack Tropics - Aquatic.wem"
 mv 240416347.wem "Tribalstack Tropics - Duke's Temple Intro.wem"
 mv 855337769.wem "Tribalstack Tropics - Duke's Temple.wem"
 mv 162895803.wem "Tribalstack Tropics - Duke's Temple (unlooped).wem"
-mv 630701173.wem "Tribalstack Tropics - Duke's Temple (again, not_used_in_game).wem"
-mv 844016443.wem "Tribalstack Tropics - Duke's Temple (again2, not_used_in_game).wem"
+mv 630701173.wem "Tribalstack Tropics - Duke's Temple (again, not_used_by_game).wem"
+mv 844016443.wem "Tribalstack Tropics - Duke's Temple (again2, not_used_by_game).wem"
 
 mv 529464369.wem "Tribalstack Tropics - Corplet Camp.wem"
-mv 257626415.wem "Tribalstack Tropics - Corplet Camp (again, not_used_in_game).wem"
-mv 53635858.wem  "Tribalstack Tropics - Corplet Camp (again2, not_used_in_game).wem"
-mv 217686622.wem "Tribalstack Tropics - Corplet Camp (again3, not_used_in_game).wem"
-mv 225243248.wem "Tribalstack Tropics - Corplet Camp (again4, not_used_in_game).wem"
+mv 257626415.wem "Tribalstack Tropics - Corplet Camp (again, not_used_by_game).wem"
+mv 53635858.wem  "Tribalstack Tropics - Corplet Camp (again2, not_used_by_game).wem"
+mv 217686622.wem "Tribalstack Tropics - Corplet Camp (again3, not_used_by_game).wem"
+mv 225243248.wem "Tribalstack Tropics - Corplet Camp (again4, not_used_by_game).wem"
 
 mv 398883026.wem "Tribalstack Tropics - Monument Intro.wem"
 mv 162230282.wem "Tribalstack Tropics - Monument Intro.wem"
 mv 287648828.wem "Tribalstack Tropics - Monument.wem"
-mv 14799336.wem  "Tribalstack Tropics - Monument (again, not_used_in_game).wem"
-mv 480460865.wem "Tribalstack Tropics - Monument (again2, not_used_in_game).wem"
+mv 14799336.wem  "Tribalstack Tropics - Monument (again, not_used_by_game).wem"
+mv 480460865.wem "Tribalstack Tropics - Monument (again2, not_used_by_game).wem"
 
 mv 298777168.wem "Tribalstack Tropics - Boss - The Great Rampo.wem"
 mv 386756905.wem "Tribalstack Tropics - Boss - The Great Rampo again.wem"
@@ -134,7 +138,7 @@ mv 1015079427.wem "Dr. Quack's Quack-Fire Quiz.wem"
 
 mv 581189516.wem "SFX - Jingle Bells.wem"
 
-mv 647222234.wem "Retrox Arcade - ?.wem"
+mv 647222234.wem "Rextro Arcade - ?.wem"
 
 1004175105.wem
 1004707711.wem
@@ -177,8 +181,6 @@ mv 647222234.wem "Retrox Arcade - ?.wem"
 142316651.wem
 142937143.wem
 178163251.wem
-186598022.wem
-189166703.wem
 189923256.wem
 206140085.wem
 206397749.wem
@@ -310,7 +312,6 @@ mv 647222234.wem "Retrox Arcade - ?.wem"
 737521290.wem
 739556270.wem
 740153353.wem
-740929881.wem
 745346874.wem
 751992073.wem
 756341589.wem
@@ -343,7 +344,6 @@ mv 647222234.wem "Retrox Arcade - ?.wem"
 849647996.wem
 861876207.wem
 865430140.wem
-868394772.wem
 875728178.wem
 878104816.wem
 880777157.wem
