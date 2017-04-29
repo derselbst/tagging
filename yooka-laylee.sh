@@ -30,17 +30,10 @@ mv 191161704.wem "David Wise's leaked thing 2.wem"
 mv 199435315.wem "Hivory Towers - ??.wem"
 
 
-mv 250663170.wem "Moodymaze Marsh - Aquatic.wem"
-
-mv 69984211.wem "Moodymaze Marsh - Some Cave???.wem"
-mv 84745841.wem "Moodymaze Marsh - Main.wem"
-mv 251664514.wem "Moodymaze Marsh - Deep Swamp.wem"
-mv 253636843.wem "Moodymaze Marsh - ???.wem"
-mv 740929881.wem "Moodymaze Marsh - Even Deeper Swap (expanded World).wem"
 
 mv 278600966.wem "SFX - Slurp State ended.wem"
 
-mv 297472422.wem "Hivory Towers - Main.wem"
+mv 297472422.wem "Hivory Towers - Normal.wem"
 
 mv 304269507.wem "Rextro - ?4 (reverse?).wem"
 mv 332178222.wem "Rextro - ?5 (reverse).wem"
@@ -52,7 +45,7 @@ mv 11841553.wem  "Main Theme - Ambiance - Water,Birds.wem"
 mv 353467983.wem "SFX - Death.wem"
 mv 362717196.wem "Rextro - ?6 (reverse).wem"
 
-mv 393135791.wem "Shipwreck Creek - Main.wem"
+mv 393135791.wem "Shipwreck Creek - Normal.wem"
 mv 626606754.wem "Shipwreck Creek - Aquatic.wem"
 
 mv 405609706.wem "Rextro Arcade.wem"
@@ -69,7 +62,7 @@ mv 446598529.wem "Ambiance.wem"
 mv 540650590.wem "Hivory Towers - Glitterglaze Glacier.wem"
 mv 838677736.wem "Ambiance - Environment.wem"
 mv 890535849.wem "Hivory Towers - Aquatic.wem"
-mv 939796231.wem "Hivory Towers - Main.wem"
+mv 939796231.wem "Hivory Towers - Normal.wem"
 
 mv 424034435.wem "Ambiance - Wind.wem"
 mv 524597222.wem "Ambiance - Noise+Birds.wem"
@@ -89,10 +82,10 @@ mv 868394772.wem "Hivory Towers - To The Top.wem"
 
 
 
-mv 722248606.wem "Tribalstack Tropics - Main (quieter,not_used_by_game).wem"
-mv 271662028.wem "Tribalstack Tropics - Main (Early?) (long,unlooped,fadeout,not_used_by_game).wem"
-mv 533380088.wem "Tribalstack Tropics - Main.wem"
-mv 636337061.wem "Tribalstack Tropics - Main (unlooped).wem"
+mv 722248606.wem "Tribalstack Tropics - Normal (quieter,not_used_by_game).wem"
+mv 271662028.wem "Tribalstack Tropics - Normal (Early?) (long,unlooped,fadeout,not_used_by_game).wem"
+mv 533380088.wem "Tribalstack Tropics - Normal.wem"
+mv 636337061.wem "Tribalstack Tropics - Normal (unlooped).wem"
 
 mv 63269928.wem  "Tribalstack Tropics - Aquatic.wem"
 mv 240416347.wem "Tribalstack Tropics - Duke's Temple Intro.wem"
@@ -124,15 +117,26 @@ mv 13954808.wem  "Tribalstack Tropics - Nimble Race 1 (again2, unlooped). wem"
 
 mv 148483046.wem "Glitterglaze Glacier - Icymetric Palace.wem"
 mv 31189334.wem  "Glitterglaze Glacier - Icymetric Palace (unlooped).wem"
-mv 688300463.wem "Glitterglaze Glacier - Main.wem"
-mv 583504928.wem "Glitterglaze Glacier - Main (unlooped).wem"
-mv 357001001.wem "Glitterglaze Glacier - Main Intro.wem"
-mv 641067179.wem "Glitterglaze Glacier - Main Intro2.wem"
+mv 688300463.wem "Glitterglaze Glacier - Normal.wem"
+mv 583504928.wem "Glitterglaze Glacier - Normal (unlooped).wem"
+mv 357001001.wem "Glitterglaze Glacier - Normal Intro.wem"
+mv 641067179.wem "Glitterglaze Glacier - Normal Intro2.wem"
 mv 405732086.wem "Glitterglaze Glacier - Boss - Brrreeze Blok.wem"
 mv 484951464.wem "Glitterglaze Glacier - Aquatic.wem"
 mv 547612741.wem "Glitterglaze Glacier - Gloomy Gem Grotto.wem"
 mv 676958470.wem "Glitterglaze Glacier - Crystalline Cave.wem"
 mv 297309298.wem "Glitterglaze Glacier - Crystalline Cave (unlooped).wem"
+
+
+
+mv 250663170.wem "Moodymaze Marsh - Aquatic.wem"
+mv 69984211.wem "Moodymaze Marsh - Deep Swamp.wem"
+mv 84745841.wem "Moodymaze Marsh - Normal.wem"
+mv 251664514.wem "Moodymaze Marsh - Deep Swamp (unlooped).wem"
+mv 253636843.wem "Moodymaze Marsh - Swampy Station.wem"
+mv 740929881.wem "Moodymaze Marsh - Even Deeper Swap (expanded World).wem"
+
+
 
 mv 1015079427.wem "Dr. Quack's Quack-Fire Quiz.wem"
 
