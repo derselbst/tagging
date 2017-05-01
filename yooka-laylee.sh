@@ -20,7 +20,6 @@ mv 245107061.wem "Ambiance - Noise.wem"
 mv 60249255.wem "Rextro - ?2 (reverse).wem"
 mv 72868789.wem "Rextro - ?3 (reverse).wem"
 
-mv 101536534.wem "??? - Aquatic.wem"
 mv 112592897.wem "David Wise's leaked thing.wem"
 mv 113086865.wem "Collect Playtonic Coin.wem"
 mv 121161360.wem "some reverse.wem"
@@ -212,8 +211,10 @@ mv 523359880.wem "Rextro Arcade - Normal (again).wem"
 
 mv 594567569.wem "Galleon Galaxy - Normal.wem"
 mv 676601034.wem "Galleon Galaxy - Normal.wem"
-mv 606852958.wem "Galleon Galaxy - ?.wem"
-mv 1041573570.wem "Galleon Galaxy - ??.wem"
+mv 101536534.wem "Galleon Galaxy - Aquatic.wem"
+mv 606852958.wem "Galleon Galaxy - Cosmic Cavern.wem"
+mv 1041573570.wem "Galleon Galaxy - Treasure Cave.wem"
+mv 288116429.wem "Galleon Galaxy - ???.wem"
 
 1005096691.wem
 1008935718.wem
@@ -266,7 +267,6 @@ mv 1041573570.wem "Galleon Galaxy - ??.wem"
 285554117.wem
 285625361.wem
 286271761.wem
-288116429.wem
 290271322.wem
 291268796.wem
 292203128.wem
