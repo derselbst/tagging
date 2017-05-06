@@ -17,14 +17,12 @@ mv 847466896.wem "Ambiance - Water.wem"
 mv 53628394.wem "Ambiance - Thunder.wem"
 mv 245107061.wem "Ambiance - Noise.wem"
 
-mv 60249255.wem "Rextro - ?2 (reverse).wem"
 mv 72868789.wem "Rextro - ?3 (reverse).wem"
 
 mv 112592897.wem "David Wise's leaked thing.wem"
 mv 113086865.wem "Collect Playtonic Coin.wem"
 mv 121161360.wem "some reverse.wem"
 
-mv 143756378.wem "Rextro - ?4 (reverse).wem"
 
 
 mv 191161704.wem "David Wise's leaked thing 2.wem"
@@ -32,7 +30,6 @@ mv 199435315.wem "Hivory Towers - ??.wem"
 
 
 mv 589136190.wem "Kartos Challenge - ?.wem"
-mv 949309814.wem "Kartos Challenge - ??.wem"
 mv 995363164.wem "Kartos Challenge - ???.wem"
 
 
@@ -40,7 +37,6 @@ mv 278600966.wem "SFX - Slurp State ended.wem"
 
 mv 297472422.wem "Hivory Towers - Normal.wem"
 
-mv 304269507.wem "Rextro - ?4 (reverse?).wem"
 mv 332178222.wem "Rextro - ?5 (reverse).wem"
 
 
@@ -58,7 +54,6 @@ mv 968037953.wem "Shipwreck Creek - Normal (unlooped).wem"
 
 mv 626606754.wem "Shipwreck Creek - Aquatic.wem"
 
-mv 405609706.wem "Rextro Arcade.wem"
 mv 406031902.wem "SFX - Collect Pagie (short).wem"
 mv 532707470.wem "SFX - Collect Pagie (long).wem"
 
@@ -200,21 +195,34 @@ mv 756341589.wem "SFX - Caught Ghost Writer.wem"
 mv 861876207.wem "SFX - Thunder.wem"
 mv 1025733604.wem "SFX - Collect Mollycool.wem"
 
-mv 647222234.wem "Rextro Arcade - ?.wem"
-mv 722727372.wem "Rextro Arcade - ?Klungo returns?.wem"
-mv 737521290.wem "Rextro Arcade - ??.wem"
-mv 745346874.wem "Rextro Arcade - ???.wem"
-mv 996207960.wem "Rextro Arcade - ?first game, that kart race?.wem"
 mv 782124416.wem "Rextro Arcade - Normal.wem"
 mv 523359880.wem "Rextro Arcade - Normal (again).wem"
 
 
+mv 556002834.wem "Rextro Arcade - Jobstacle Course (reverse).wem"
+mv 949309814.wem "Rextro Arcade - Jobstacle Course.wem"
+mv 745346874.wem "Rextro Arcade - Gun-Tlet-Run.wem"
+mv 304269507.wem "Rextro Arcade - Gun-Tlet-Run (reverse).wem"
+mv 565897698.wem "Rextro Arcade - Bee Bop.wem"
+mv 793653577.wem "Rextro Arcade - Bee Bop (reverse).wem"
+mv 996207960.wem "Rextro Arcade - Kartos Karting.wem"
+mv 60249255.wem  "Rextro Arcade - Kartos Karting (reverse).wem"
+mv 647222234.wem "Rextro Arcade - Glaciators.wem"
+mv 143756378.wem "Rextro Arcade - Glaciators (reverse).wem"
+mv 405609706.wem "Rextro Arcade - Up'n Nova.wem"
+mv 737521290.wem "Rextro Arcade - Hurdle Hijinx.wem"
+mv 773695599.wem "Rextro Arcade - Hurdle Hijinx (reverse).wem"
+mv 722727372.wem "Rextro Arcade - Blag The Flag.wem"
+mv 478008553.wem "Rextro Arcade - Blag The Flag (reverse).wem"
+
 mv 594567569.wem "Galleon Galaxy - Normal.wem"
 mv 676601034.wem "Galleon Galaxy - Normal.wem"
 mv 101536534.wem "Galleon Galaxy - Aquatic.wem"
-mv 606852958.wem "Galleon Galaxy - Cosmic Cavern.wem"
+mv 606852958.wem "Galleon Galaxy - Interior.wem"
 mv 1041573570.wem "Galleon Galaxy - Treasure Cave.wem"
-mv 288116429.wem "Galleon Galaxy - ???.wem"
+mv 288116429.wem "Galleon Galaxy - Sailing around.wem"
+mv 412038225.wem "Galleon Galaxy - Boss.wem"
+mv 234033844.wem "Galleon Galaxy - Kartos Challenge.wem"
 
 1005096691.wem
 1008935718.wem
@@ -259,7 +267,6 @@ mv 288116429.wem "Galleon Galaxy - ???.wem"
 231715424.wem
 232061258.wem
 234021018.wem
-234033844.wem
 235243822.wem
 236003763.wem
 243511133.wem
@@ -290,14 +297,12 @@ mv 288116429.wem "Galleon Galaxy - ???.wem"
 406587979.wem
 409663388.wem
 410801645.wem
-412038225.wem
 419992515.wem
 425157647.wem
 431439255.wem
 457968170.wem
 468160550.wem
 471112338.wem
-478008553.wem
 478721635.wem
 479353201.wem
 485085160.wem
@@ -320,8 +325,6 @@ mv 288116429.wem "Galleon Galaxy - ???.wem"
 551659470.wem
 552625626.wem
 554160212.wem
-556002834.wem
-565897698.wem
 596833678.wem
 605193210.wem
 609116138.wem
@@ -364,12 +367,10 @@ mv 288116429.wem "Galleon Galaxy - ???.wem"
 770480391.wem
 771533348.wem
 772239675.wem
-773695599.wem
 782948772.wem
 783681839.wem
 783948087.wem
 784927594.wem
-793653577.wem
 794176864.wem
 795208762.wem
 803781205.wem
