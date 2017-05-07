@@ -20,8 +20,6 @@ mv 245107061.wem "Ambiance - Noise.wem"
 mv 72868789.wem "Rextro - ?3 (reverse).wem"
 
 mv 112592897.wem "David Wise's leaked thing.wem"
-mv 113086865.wem "Collect Playtonic Coin.wem"
-mv 121161360.wem "some reverse.wem"
 
 
 
@@ -33,11 +31,9 @@ mv 589136190.wem "Kartos Challenge - ?.wem"
 mv 995363164.wem "Kartos Challenge - ???.wem"
 
 
-mv 278600966.wem "SFX - Slurp State ended.wem"
 
 mv 297472422.wem "Hivory Towers - Normal.wem"
 
-mv 332178222.wem "Rextro - ?5 (reverse).wem"
 
 
 mv 332971003.wem "Main Theme.wem"
@@ -46,16 +42,11 @@ mv 942605757.wem "Main Theme - Hurry.wem"
 
 mv 11841553.wem  "Ambiance - Water,Birds.wem"
 
-mv 353467983.wem "SFX - Death.wem"
-mv 362717196.wem "Rextro - ?6 (reverse).wem"
 
 mv 393135791.wem "Shipwreck Creek - Normal.wem"
-mv 968037953.wem "Shipwreck Creek - Normal (unlooped).wem"
-
+mv 968037953.wem "Shipwreck Creek - Normal 48khz (unlooped).wem"
 mv 626606754.wem "Shipwreck Creek - Aquatic.wem"
 
-mv 406031902.wem "SFX - Collect Pagie (short).wem"
-mv 532707470.wem "SFX - Collect Pagie (long).wem"
 
 # 1003159852.wem
 mv 1003471996.wem "Ambiance - Noise.wem"
@@ -194,6 +185,11 @@ mv 740153353.wem "SFX - Slurp Shot (Eating Berries).wem"
 mv 756341589.wem "SFX - Caught Ghost Writer.wem"
 mv 861876207.wem "SFX - Thunder.wem"
 mv 1025733604.wem "SFX - Collect Mollycool.wem"
+mv 113086865.wem "SFX - Collect Playtonic Coin.wem"
+mv 278600966.wem "SFX - Slurp State ended.wem"
+mv 353467983.wem "SFX - Death.wem"
+mv 406031902.wem "SFX - Collect Pagie (short).wem"
+mv 532707470.wem "SFX - Collect Pagie (long).wem"
 
 mv 782124416.wem "Rextro Arcade - Normal.wem"
 mv 523359880.wem "Rextro Arcade - Normal (again).wem"
@@ -201,14 +197,20 @@ mv 523359880.wem "Rextro Arcade - Normal (again).wem"
 
 mv 556002834.wem "Rextro Arcade - Jobstacle Course (reverse).wem"
 mv 949309814.wem "Rextro Arcade - Jobstacle Course.wem"
+mv 121161360.wem "Rextro Arcade - Jobstacle Course (reverse2).wem"
+
 mv 745346874.wem "Rextro Arcade - Gun-Tlet-Run.wem"
 mv 304269507.wem "Rextro Arcade - Gun-Tlet-Run (reverse).wem"
 mv 565897698.wem "Rextro Arcade - Bee Bop.wem"
 mv 793653577.wem "Rextro Arcade - Bee Bop (reverse).wem"
+
 mv 996207960.wem "Rextro Arcade - Kartos Karting.wem"
 mv 60249255.wem  "Rextro Arcade - Kartos Karting (reverse).wem"
+mv 332178222.wem "Rextro Arcade - Kartos Karting (reverse2).wem"
+
 mv 647222234.wem "Rextro Arcade - Glaciators.wem"
 mv 143756378.wem "Rextro Arcade - Glaciators (reverse).wem"
+mv 362717196.wem "Rextro Arcade - Glaciators (reverse2).wem"
 mv 405609706.wem "Rextro Arcade - Up'n Nova.wem"
 mv 737521290.wem "Rextro Arcade - Hurdle Hijinx.wem"
 mv 773695599.wem "Rextro Arcade - Hurdle Hijinx (reverse).wem"
