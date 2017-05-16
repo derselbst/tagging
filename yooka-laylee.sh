@@ -19,11 +19,9 @@ mv 245107061.wem "Ambiance - Noise.wem"
 
 mv 72868789.wem "Rextro - ?3 (reverse).wem"
 
-mv 112592897.wem "David Wise's leaked thing.wem"
+mv 112592897.wem "Ending - Grand Party.wem"
+mv 191161704.wem "Ending - Grand Party (again).wem"
 
-
-
-mv 191161704.wem "David Wise's leaked thing 2.wem"
 mv 199435315.wem "Hivory Towers - ??.wem"
 
 
