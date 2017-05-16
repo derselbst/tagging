@@ -16,47 +16,14 @@ mv 49294568.wem "Ambiance - Water.wem"
 mv 847466896.wem "Ambiance - Water.wem"
 mv 53628394.wem "Ambiance - Thunder.wem"
 mv 245107061.wem "Ambiance - Noise.wem"
-
-mv 72868789.wem "Rextro - ?3 (reverse).wem"
-
-mv 112592897.wem "Ending - Grand Party.wem"
-mv 191161704.wem "Ending - Grand Party (again).wem"
-
-mv 199435315.wem "Hivory Towers - ??.wem"
-
-
-mv 589136190.wem "Kartos Challenge - ?.wem"
-mv 995363164.wem "Kartos Challenge - ???.wem"
-
-
-
-mv 297472422.wem "Hivory Towers - Normal.wem"
-
-
-
-mv 332971003.wem "Main Theme.wem"
-mv 910563463.wem "Main Theme - Hurry.wem"
-mv 942605757.wem "Main Theme - Hurry.wem"
-
 mv 11841553.wem  "Ambiance - Water,Birds.wem"
-
-
-mv 393135791.wem "Shipwreck Creek - Normal.wem"
-mv 968037953.wem "Shipwreck Creek - Normal 48khz (unlooped).wem"
-mv 626606754.wem "Shipwreck Creek - Aquatic.wem"
-
-
 # 1003159852.wem
 mv 1003471996.wem "Ambiance - Noise.wem"
-mv 1038850781.wem "Hivory Towers - ???.wem"
 mv 1052765802.wem "Ambiance - Water.wem"
 mv 370198222.wem "SFX - ???.wem"
 
 mv 446598529.wem "Ambiance.wem"
-mv 540650590.wem "Hivory Towers - Interior (Glitterglaze Glacier).wem"
 mv 838677736.wem "Ambiance - Environment.wem"
-mv 890535849.wem "Hivory Towers - Aquatic.wem"
-mv 939796231.wem "Hivory Towers - Normal.wem"
 
 mv 424034435.wem "Ambiance - Wind.wem"
 mv 524597222.wem "Ambiance - Noise+Birds.wem"
@@ -68,11 +35,41 @@ mv 983178884.wem "Ambiance - Wind2.wem"
 mv 186598022.wem "Ambiance - Swamp.wem"
 mv 189166703.wem "Ambiance - Heavy Wind.wem"
 
-mv 1005700745.wem "Hivory Towers - ?!?.wem"
-mv 988991861.wem  "Hivory Towers - ?!?.wem" # duplicate of 10057*
+mv 72868789.wem "Rextro - ?3 (reverse).wem"
 
-mv 512165635.wem "Hivory Towers - Toxic Plane.wem"
-mv 868394772.wem "Hivory Towers - To The Top.wem"
+
+
+
+mv 589136190.wem "Kartos Challenge - ?.wem"
+
+
+
+
+
+
+mv 332971003.wem "001a - Main Theme.wem"
+mv 910563463.wem "001b - Main Theme - Hurry.wem"
+mv 942605757.wem "001b - Main Theme - Hurry2.wem"
+
+
+
+mv 393135791.wem "002a - Shipwreck Creek - Normal.wem"
+mv 968037953.wem "002a - Shipwreck Creek - Normal 48khz (unlooped).wem"
+mv 626606754.wem "002b - Shipwreck Creek - Aquatic.wem"
+
+mv 297472422.wem  "003a - Hivory Towers - Normal.wem"
+mv 939796231.wem  "003a - Hivory Towers - Normal.wem"
+mv 540650590.wem  "003b - Hivory Towers - Interior (Hub B).wem"
+mv 1038850781.wem "003c - Hivory Towers - Water Works.wem"
+mv 512165635.wem  "003d - Hivory Towers - Exterior (Toxic Planes).wem"
+mv 868394772.wem  "003e - Hivory Towers - To The Top.wem"
+mv 1005700745.wem "003f - Hivory Towers - Capital B's Office.wem"
+mv 890535849.wem  "003g - Hivory Towers - Aquatic.wem"
+# mv 199435315.wem  "003 - Hivory Towers - ??.wem"  # duplicate of 10057*
+# mv 988991861.wem  "Hivory Towers - ?!?.wem" # duplicate of 10057*
+
+
+
 
 
 
@@ -132,7 +129,7 @@ mv 238147918.wem "Tribalstack Tropics - Nimble Race 1 (again, unlooped).wem"
 mv 13954808.wem  "Tribalstack Tropics - Nimble Race 1 (again2, unlooped). wem"
 mv 1022251749.wem  "Tribalstack Tropics - Nimble Race 1 (again3, unlooped). wem"
 
-
+mv 468160550.wem "Tribalstack Tropics - Kartos Challenge.wem"
 
 
 
@@ -153,7 +150,7 @@ mv 676958470.wem "Glitterglaze Glacier - Crystalline Cave.wem"
 mv 693539848.wem "Glitterglaze Glacier - Crystalline Cave (?).wem"
 mv 297309298.wem "Glitterglaze Glacier - Crystalline Cave (unlooped).wem"
 mv 1006406196.wem "Glitterglaze Glacier - Crystalline Cave (Hurry).wem"
-
+mv 231715424.wem "Glitterglaze Glacier - Kartos Challenge.wem"
 
 
 
@@ -164,6 +161,7 @@ mv 251664514.wem "Moodymaze Marsh - Deep Swamp (unlooped).wem"
 mv 253636843.wem "Moodymaze Marsh - Swampy Station.wem"
 mv 740929881.wem "Moodymaze Marsh - Even Deeper Swap (expanded World).wem"
 mv 1004707711.wem "Moodymaze Marsh - Boss (Trev the Tenteyecle).wem"
+mv 995363164.wem "Moodymaze Marsh - Kartos Challenge.wem"
 
 
 
@@ -224,6 +222,10 @@ mv 288116429.wem "Galleon Galaxy - Sailing around.wem"
 mv 412038225.wem "Galleon Galaxy - Boss.wem"
 mv 234033844.wem "Galleon Galaxy - Kartos Challenge.wem"
 
+
+mv 112592897.wem "Ending - Grand Party.wem"
+mv 191161704.wem "Ending - Grand Party (again).wem"
+
 1005096691.wem
 1008935718.wem
 1010807917.wem
@@ -264,7 +266,6 @@ mv 234033844.wem "Galleon Galaxy - Kartos Challenge.wem"
 216346268.wem
 220691559.wem
 225660197.wem
-231715424.wem
 232061258.wem
 234021018.wem
 235243822.wem
@@ -301,7 +302,6 @@ mv 234033844.wem "Galleon Galaxy - Kartos Challenge.wem"
 425157647.wem
 431439255.wem
 457968170.wem
-468160550.wem
 471112338.wem
 478721635.wem
 479353201.wem
