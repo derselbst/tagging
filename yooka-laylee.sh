@@ -1,11 +1,6 @@
 # list of all wem files shipped with the linux version of Yooka-Laylee
 
-# most tunes are looped. there are unlooped versions of a theme. it seems
-# like these tunes are replacing the looped sections of their respective 
-# looped tunes. e.g. start playing a looped piece, when it reaches the end
-# of its loop it doesnt simply loop back. instead it plays the unlooped version
-# which appears to have a slightly different tune. when unlooped section played,
-# playhead rewinds to beginning of former looped section.
+# most tunes are looped. there are unlooped (incomplete) 48 kHz versions of a theme
 
 # some files tagged with "not_used_by_game" because when doing a fuser *.wem I see
 # that these files are not opened though being in the respective world
@@ -142,14 +137,15 @@ mv 416075368.wem "Glitterglaze Glacier - Normal (unlooped).wem"
 mv 357001001.wem "Glitterglaze Glacier - Normal Intro.wem"
 mv 405732086.wem "Glitterglaze Glacier - Boss (Brrreeze Blok).wem"
 mv 484951464.wem "Glitterglaze Glacier - Aquatic.wem"
+
 mv 547612741.wem "Glitterglaze Glacier - Gloomy Gem Grotto.wem"
+mv 693539848.wem "Glitterglaze Glacier - Gloomy Gem Grotto (unlooped).wem"
+mv 1006406196.wem "Glitterglaze Glacier - Gloomy Gem Grotto (Hurry).wem"
 
 
 mv 701458817.wem "Glitterglaze Glacier - Crystalline Cave Intro.wem"
 mv 676958470.wem "Glitterglaze Glacier - Crystalline Cave.wem"
-mv 693539848.wem "Glitterglaze Glacier - Crystalline Cave (?).wem"
 mv 297309298.wem "Glitterglaze Glacier - Crystalline Cave (unlooped).wem"
-mv 1006406196.wem "Glitterglaze Glacier - Crystalline Cave (Hurry).wem"
 mv 231715424.wem "Glitterglaze Glacier - Kartos Challenge.wem"
 
 
