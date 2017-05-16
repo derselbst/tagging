@@ -31,9 +31,12 @@ mv 186598022.wem "Ambiance - Swamp.wem"
 mv 189166703.wem "Ambiance - Heavy Wind.wem"
 
 mv 72868789.wem "Rextro - ?3 (reverse).wem"
-
-
-
+mv 631007620.wem "Rextro - rev?er?se.wem"
+mv 677278999.wem "Rextro - rev?e?r?se.wem"
+mv 683031846.wem "Rextro - reve?r?se.wem"
+mv 783948087.wem "Rextro - ?reverse.wem"
+mv 795208762.wem "Rextro - ??reverse.wem"
+mv 911034296.wem "Rextro - rev.wem"
 
 mv 589136190.wem "Kartos Challenge - ?.wem"
 
@@ -60,6 +63,7 @@ mv 512165635.wem  "003d - Hivory Towers - Exterior (Toxic Planes).wem"
 mv 868394772.wem  "003e - Hivory Towers - To The Top.wem"
 mv 1005700745.wem "003f - Hivory Towers - Capital B's Office.wem"
 mv 890535849.wem  "003g - Hivory Towers - Aquatic.wem"
+mv 382241610.wem  "003z - Hivory Towers - Final Boss (Capital B).wem"
 # mv 199435315.wem  "003 - Hivory Towers - ??.wem"  # duplicate of 10057*
 # mv 988991861.wem  "Hivory Towers - ?!?.wem" # duplicate of 10057*
 
@@ -168,6 +172,7 @@ mv 717876552.wem "Capital Cashino - Normal.wem"
 mv 791763668.wem "Capital Cashino - Safe Room.wem"
 mv 726122661.wem "Capital Cashino - Kartos Challenge.wem"
 mv 592774655.wem "Capital Cashino - Hurry.wem"
+mv 178163251.wem "Capital Cashino - I.N.E.P.T.wem"
 
 mv 1015079427.wem "Dr. Quack's Quack-Fire Quiz.wem"
 mv 779320198.wem "Dr. Quack's Quack-Fire Quiz (again).wem"
@@ -178,10 +183,15 @@ mv 756341589.wem "SFX - Caught Ghost Writer.wem"
 mv 861876207.wem "SFX - Thunder.wem"
 mv 1025733604.wem "SFX - Collect Mollycool.wem"
 mv 113086865.wem "SFX - Collect Playtonic Coin.wem"
+mv 596833678.wem "SFX - Collect Pirate Treasure.wem"
 mv 278600966.wem "SFX - Slurp State ended.wem"
 mv 353467983.wem "SFX - Death.wem"
 mv 406031902.wem "SFX - Collect Pagie (short).wem"
 mv 532707470.wem "SFX - Collect Pagie (long).wem"
+mv 540059236.wem "SFX - Challenge Completed.wem"
+mv 766411029.wem "SFX - destroyed those speaking astroids.wem"
+mv 883279601.wem "SFX - Sonar 'Splosion.wem"
+mv 905180337.wem "SFX - Activate Totem.wem"
 
 mv 782124416.wem "Rextro Arcade - Normal.wem"
 mv 523359880.wem "Rextro Arcade - Normal (again).wem"
@@ -195,10 +205,13 @@ mv 745346874.wem "Rextro Arcade - Gun-Tlet-Run.wem"
 mv 304269507.wem "Rextro Arcade - Gun-Tlet-Run (reverse).wem"
 mv 565897698.wem "Rextro Arcade - Bee Bop.wem"
 mv 793653577.wem "Rextro Arcade - Bee Bop (reverse).wem"
+mv 615517057.wem "Rextro Arcade - Bee Bop (reverse2).wem"
+
 
 mv 996207960.wem "Rextro Arcade - Kartos Karting.wem"
 mv 60249255.wem  "Rextro Arcade - Kartos Karting (reverse).wem"
 mv 332178222.wem "Rextro Arcade - Kartos Karting (reverse2).wem"
+mv 905636539.wem "Rextro Arcade - Kartos Karting (reverse3).wem"
 
 mv 647222234.wem "Rextro Arcade - Glaciators.wem"
 mv 143756378.wem "Rextro Arcade - Glaciators (reverse).wem"
@@ -208,6 +221,9 @@ mv 737521290.wem "Rextro Arcade - Hurdle Hijinx.wem"
 mv 773695599.wem "Rextro Arcade - Hurdle Hijinx (reverse).wem"
 mv 722727372.wem "Rextro Arcade - Blag The Flag.wem"
 mv 478008553.wem "Rextro Arcade - Blag The Flag (reverse).wem"
+mv 953233564.wem "Rextro Arcade - Blag The Flag (reverse2).wem"
+
+
 
 mv 594567569.wem "Galleon Galaxy - Normal.wem"
 mv 676601034.wem "Galleon Galaxy - Normal.wem"
@@ -219,6 +235,7 @@ mv 412038225.wem "Galleon Galaxy - Boss.wem"
 mv 234033844.wem "Galleon Galaxy - Kartos Challenge.wem"
 
 
+mv 1014835385.wem "Cutscene - Capital B Drinks The Tonic.wem"
 mv 112592897.wem "Ending - Grand Party.wem"
 mv 191161704.wem "Ending - Grand Party (again).wem"
 
@@ -226,7 +243,6 @@ mv 191161704.wem "Ending - Grand Party (again).wem"
 1008935718.wem
 1010807917.wem
 1012144986.wem
-1014835385.wem
 
 
 1018588088.wem
@@ -255,7 +271,6 @@ mv 191161704.wem "Ending - Grand Party (again).wem"
 137821641.wem
 142316651.wem
 142937143.wem
-178163251.wem
 189923256.wem
 206140085.wem
 206397749.wem
@@ -287,7 +302,6 @@ mv 191161704.wem "Ending - Grand Party (again).wem"
 369864684.wem
 376828056.wem
 377232333.wem
-382241610.wem
 389110418.wem
 400363890.wem
 406479001.wem
@@ -315,29 +329,23 @@ mv 191161704.wem "Ending - Grand Party (again).wem"
 533380088.wem
 533849150.wem
 538090783.wem
-540059236.wem
 547612741.wem
 549400600.wem
 551659470.wem
 552625626.wem
 554160212.wem
-596833678.wem
 605193210.wem
 609116138.wem
 612946724.wem
-615517057.wem
 619703811.wem
 629873387.wem
-631007620.wem
 635329926.wem
 643101512.wem
 664424705.wem
 665137701.wem
-677278999.wem
 680176587.wem
 680649174.wem
 681961272.wem
-683031846.wem
 685969381.wem
 686836984.wem
 691969138.wem
@@ -358,17 +366,14 @@ mv 191161704.wem "Ending - Grand Party (again).wem"
 762275906.wem
 763586405.wem
 765409914.wem
-766411029.wem
 766773524.wem
 770480391.wem
 771533348.wem
 772239675.wem
 782948772.wem
 783681839.wem
-783948087.wem
 784927594.wem
 794176864.wem
-795208762.wem
 803781205.wem
 816554416.wem
 833289157.wem
@@ -380,14 +385,10 @@ mv 191161704.wem "Ending - Grand Party (again).wem"
 875728178.wem
 878104816.wem
 880777157.wem
-883279601.wem
 889278688.wem
 904259733.wem
-905180337.wem
-905636539.wem
 907736485.wem
 910619733.wem
-911034296.wem
 911768037.wem
 913469834.wem
 915098121.wem
@@ -402,7 +403,6 @@ mv 191161704.wem "Ending - Grand Party (again).wem"
 943527140.wem
 950477509.wem
 951630740.wem
-953233564.wem
 956995474.wem
 961257650.wem
 969611759.wem
