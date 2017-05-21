@@ -1,3 +1,9 @@
+# tagged by Tom M. (derselbst)
+# if you find any bugs / mistake taggings, please report them on github
+# https://github.com/derselbst/tagging
+# or via email: tom[DOT]mbrt[AT]gmail[DOT]com
+
+
 # list of all wem files shipped with the linux version of Yooka-Laylee
 
 # most tunes are looped. there are unlooped (incomplete) 48 kHz versions of a theme
@@ -64,115 +70,116 @@ mv 868394772.wem  "003e - Hivory Towers - To The Top.wem"
 mv 1005700745.wem "003f - Hivory Towers - Capital B's Office.wem"
 mv 890535849.wem  "003g - Hivory Towers - Aquatic.wem"
 mv 382241610.wem  "003z - Hivory Towers - Final Boss (Capital B).wem"
-# mv 199435315.wem  "003 - Hivory Towers - ??.wem"  # duplicate of 10057*
-# mv 988991861.wem  "Hivory Towers - ?!?.wem" # duplicate of 10057*
+rm 199435315.wem  # duplicate of 10057* (md5sum match)
+rm 988991861.wem  # duplicate of 10057* (md5sum match)
 
 
 
 
 
 
-mv 722248606.wem "Tribalstack Tropics - Normal (quieter,not_used_by_game).wem"
-mv 271662028.wem "Tribalstack Tropics - Normal (Early?) (long,unlooped,fadeout,not_used_by_game).wem"
-mv 431661253.wem "Tribalstack Tropics - Normal (not_used_by_game).wem"
-mv 570519491.wem "Tribalstack Tropics - Normal (not_used_by_game2).wem"
-mv 726295195.wem "Tribalstack Toopics - Normal (not_used_by_game3).wem"
-mv 533380088.wem "Tribalstack Tropics - Normal.wem"
-mv 972616824.wem "Tribalstack Tropics - Normal (Intro).wem"
-mv 636337061.wem "Tribalstack Tropics - Normal (unlooped).wem"
+mv 722248606.wem "004a - Tribalstack Tropics - Normal (quieter,not_used_by_game).wem"
+mv 271662028.wem "004a - Tribalstack Tropics - Normal (Early?) (long,unlooped,fadeout,not_used_by_game).wem"
+mv 431661253.wem "004a - Tribalstack Tropics - Normal (not_used_by_game).wem"
+mv 570519491.wem "004a - Tribalstack Tropics - Normal (not_used_by_game2).wem"
+mv 726295195.wem "004a - Tribalstack Toopics - Normal (not_used_by_game3).wem"
+mv 533380088.wem "004a - Tribalstack Tropics - Normal.wem"
+mv 972616824.wem "004a - Tribalstack Tropics - Normal (Intro).wem"
+mv 636337061.wem "004a - Tribalstack Tropics - Normal (unlooped).wem"
 
-mv 63269928.wem  "Tribalstack Tropics - Aquatic.wem"
-mv 240416347.wem "Tribalstack Tropics - Duke's Temple Intro.wem"
-mv 855337769.wem "Tribalstack Tropics - Duke's Temple.wem"
-mv 162895803.wem "Tribalstack Tropics - Duke's Temple (unlooped).wem"
-mv 630701173.wem "Tribalstack Tropics - Duke's Temple (again, not_used_by_game).wem"
-mv 844016443.wem "Tribalstack Tropics - Duke's Temple (again2, not_used_by_game).wem"
-mv 461690759.wem "Tribalstack Tropics - Duke's Temple (again3, not_used_by_game).wem"
-mv 473513511.wem "Tribalstack Tropics - Duke's Temple (again4, not_used_by_game).wem"
-mv 710135945.wem "Tribalstack Tropics - Duke's Temple (again5, not_used_by_game).wem"
-mv 997014908.wem "Tribalstack Tropics - Duke's Temple (again6, not_used_by_game).wem"
-
-
-
-
-mv 529464369.wem "Tribalstack Tropics - Corplet Camp.wem"
-mv 257626415.wem "Tribalstack Tropics - Corplet Camp (again, not_used_by_game).wem"
-mv 53635858.wem  "Tribalstack Tropics - Corplet Camp (again2, not_used_by_game).wem"
-mv 217686622.wem "Tribalstack Tropics - Corplet Camp (again3, not_used_by_game).wem"
-mv 225243248.wem "Tribalstack Tropics - Corplet Camp (again4, not_used_by_game).wem"
-mv 604947276.wem "Tribalstack Tropics - Corplet Camp (again5, not_used_by_game).wem"
-mv 697174408.wem "Tribalstack Tropics - Corplet Camp (again6, not_used_by_game).wem"
-mv 1004175105.wem "Tribalstack Tropics - Corplet Camp (again7, not_used_by_game).wem"
-
-
-
-mv 398883026.wem "Tribalstack Tropics - Monument Intro.wem"
-mv 162230282.wem "Tribalstack Tropics - Monument Intro.wem"
-mv 287648828.wem "Tribalstack Tropics - Monument.wem"
-mv 14799336.wem  "Tribalstack Tropics - Monument (again, not_used_by_game).wem"
-mv 480460865.wem "Tribalstack Tropics - Monument (again2, not_used_by_game).wem"
-mv 608537953.wem "Tribalstack Tropics - Monument (again3, not_used_by_game).wem"
-mv 922848822.wem "Tribalstack Tropics - Monument (again4, not_used_by_game).wem"
-mv 956730973.wem "Tribalstack Tropics - Monument (again5, not_used_by_game).wem"
-mv 1051348951.wem "Tribalstack Tropics - Monument (again6, not_used_by_game).wem"
+mv 63269928.wem  "004e - Tribalstack Tropics - Aquatic.wem"
+mv 240416347.wem "004b - Tribalstack Tropics - Duke's Temple Intro.wem"
+mv 855337769.wem "004b - Tribalstack Tropics - Duke's Temple.wem"
+mv 162895803.wem "004b - Tribalstack Tropics - Duke's Temple (unlooped).wem"
+mv 630701173.wem "004b - Tribalstack Tropics - Duke's Temple (again, not_used_by_game).wem"
+mv 844016443.wem "004b - Tribalstack Tropics - Duke's Temple (again2, not_used_by_game).wem"
+mv 461690759.wem "004b - Tribalstack Tropics - Duke's Temple (again3, not_used_by_game).wem"
+mv 473513511.wem "004b - Tribalstack Tropics - Duke's Temple (again4, not_used_by_game).wem"
+mv 710135945.wem "004b - Tribalstack Tropics - Duke's Temple (again5, not_used_by_game).wem"
+mv 997014908.wem "004b - Tribalstack Tropics - Duke's Temple (again6, not_used_by_game).wem"
 
 
 
 
-mv 298777168.wem "Tribalstack Tropics - Boss (The Great Rampo).wem"
-mv 386756905.wem "Tribalstack Tropics - Boss (The Great Rampo) (again).wem"
-mv 728916668.wem "Tribalstack Tropics - Boss (The Great Rampo) (again2).wem"
-
-mv 395580153.wem "Tribalstack Tropics - Nimble Race 1.wem"
-mv 238147918.wem "Tribalstack Tropics - Nimble Race 1 (again, unlooped).wem"
-mv 13954808.wem  "Tribalstack Tropics - Nimble Race 1 (again2, unlooped). wem"
-mv 1022251749.wem  "Tribalstack Tropics - Nimble Race 1 (again3, unlooped). wem"
-
-mv 468160550.wem "Tribalstack Tropics - Kartos Challenge.wem"
+mv 529464369.wem "004d - Tribalstack Tropics - Corplet Camp.wem"
+mv 257626415.wem "004d - Tribalstack Tropics - Corplet Camp (again, not_used_by_game).wem"
+mv 53635858.wem  "004d - Tribalstack Tropics - Corplet Camp (again2, not_used_by_game).wem"
+mv 217686622.wem "004d - Tribalstack Tropics - Corplet Camp (again3, not_used_by_game).wem"
+mv 225243248.wem "004d - Tribalstack Tropics - Corplet Camp (again4, not_used_by_game).wem"
+mv 604947276.wem "004d - Tribalstack Tropics - Corplet Camp (again5, not_used_by_game).wem"
+mv 697174408.wem "004d - Tribalstack Tropics - Corplet Camp (again6, not_used_by_game).wem"
+mv 1004175105.wem "004d - Tribalstack Tropics - Corplet Camp (again7, not_used_by_game).wem"
 
 
 
-mv 641067179.wem "Glitterglaze Glacier - Icymetric Palace Intro.wem"
-mv 148483046.wem "Glitterglaze Glacier - Icymetric Palace.wem"
-mv 31189334.wem  "Glitterglaze Glacier - Icymetric Palace (unlooped).wem"
-mv 688300463.wem "Glitterglaze Glacier - Normal.wem"
-mv 583504928.wem "Glitterglaze Glacier - ?? (unlooped).wem"
-mv 416075368.wem "Glitterglaze Glacier - Normal (unlooped).wem"
-mv 357001001.wem "Glitterglaze Glacier - Normal Intro.wem"
-mv 405732086.wem "Glitterglaze Glacier - Boss (Brrreeze Blok).wem"
-mv 484951464.wem "Glitterglaze Glacier - Aquatic.wem"
-
-mv 547612741.wem "Glitterglaze Glacier - Gloomy Gem Grotto.wem"
-mv 693539848.wem "Glitterglaze Glacier - Gloomy Gem Grotto (unlooped).wem"
-mv 1006406196.wem "Glitterglaze Glacier - Gloomy Gem Grotto (Hurry).wem"
-
-
-mv 701458817.wem "Glitterglaze Glacier - Crystalline Cave Intro.wem"
-mv 676958470.wem "Glitterglaze Glacier - Crystalline Cave.wem"
-mv 297309298.wem "Glitterglaze Glacier - Crystalline Cave (unlooped).wem"
-mv 231715424.wem "Glitterglaze Glacier - Kartos Challenge.wem"
+mv 398883026.wem "004c - Tribalstack Tropics - Monument Intro.wem"
+mv 162230282.wem "004c - Tribalstack Tropics - Monument Intro.wem"
+mv 287648828.wem "004c - Tribalstack Tropics - Monument.wem"
+mv 14799336.wem  "004c - Tribalstack Tropics - Monument (again, not_used_by_game).wem"
+mv 480460865.wem "004c - Tribalstack Tropics - Monument (again2, not_used_by_game).wem"
+mv 608537953.wem "004c - Tribalstack Tropics - Monument (again3, not_used_by_game).wem"
+mv 922848822.wem "004c - Tribalstack Tropics - Monument (again4, not_used_by_game).wem"
+mv 956730973.wem "004c - Tribalstack Tropics - Monument (again5, not_used_by_game).wem"
+mv 1051348951.wem "004c - Tribalstack Tropics - Monument (again6, not_used_by_game).wem"
 
 
 
-mv 250663170.wem "Moodymaze Marsh - Aquatic.wem"
-mv 69984211.wem "Moodymaze Marsh - Deep Swamp.wem"
-mv 84745841.wem "Moodymaze Marsh - Normal.wem"
-mv 251664514.wem "Moodymaze Marsh - Deep Swamp (unlooped).wem"
-mv 253636843.wem "Moodymaze Marsh - Swampy Station.wem"
-mv 740929881.wem "Moodymaze Marsh - Even Deeper Swap (expanded World).wem"
-mv 1004707711.wem "Moodymaze Marsh - Boss (Trev the Tenteyecle).wem"
-mv 995363164.wem "Moodymaze Marsh - Kartos Challenge.wem"
+
+mv 298777168.wem "004z - Tribalstack Tropics - Boss (The Great Rampo).wem"
+mv 386756905.wem "004z - Tribalstack Tropics - Boss (The Great Rampo) (again).wem"
+mv 728916668.wem "004z - Tribalstack Tropics - Boss (The Great Rampo) (again2).wem"
+
+mv 395580153.wem "004f - Tribalstack Tropics - Nimble Race 1.wem"
+mv 238147918.wem "004f - Tribalstack Tropics - Nimble Race 1 (again, unlooped).wem"
+mv 13954808.wem  "004f - Tribalstack Tropics - Nimble Race 1 (again2, unlooped). wem"
+mv 1022251749.wem  "004f - Tribalstack Tropics - Nimble Race 1 (again3, unlooped). wem"
+
+mv 468160550.wem "004g - Tribalstack Tropics - Kartos Challenge.wem"
 
 
 
-mv 134263814.wem "Capital Cashino - Aquatic.wem"
-mv 334721071.wem "Capital Cashino - Behind the scenes (Wager Laser, Power Grid).wem"
-mv 70864145.wem "Capital Cashino - Dance Floor.wem"
-mv 717876552.wem "Capital Cashino - Normal.wem"
-mv 791763668.wem "Capital Cashino - Safe Room.wem"
-mv 726122661.wem "Capital Cashino - Kartos Challenge.wem"
-mv 592774655.wem "Capital Cashino - Hurry.wem"
-mv 178163251.wem "Capital Cashino - I.N.E.P.T.wem"
+mv 641067179.wem "005c - Glitterglaze Glacier - Icymetric Palace Intro.wem"
+mv 148483046.wem "005c - Glitterglaze Glacier - Icymetric Palace.wem"
+mv 31189334.wem  "005c - Glitterglaze Glacier - Icymetric Palace (unlooped).wem"
+mv 583504928.wem "005c - Glitterglaze Glacier - Icymetric Palace (unlooped, silent).wem"
+
+mv 688300463.wem "005a - Glitterglaze Glacier - Normal.wem"
+mv 416075368.wem "005a - Glitterglaze Glacier - Normal (unlooped).wem"
+mv 357001001.wem "005a - Glitterglaze Glacier - Normal Intro.wem"
+
+mv 547612741.wem "005d - Glitterglaze Glacier - Gloomy Gem Grotto.wem"
+mv 693539848.wem "005d - Glitterglaze Glacier - Gloomy Gem Grotto (unlooped).wem"
+mv 1006406196.wem "005d - Glitterglaze Glacier - Gloomy Gem Grotto (Hurry).wem"
+
+mv 701458817.wem "005b - Glitterglaze Glacier - Crystalline Cave Intro.wem"
+mv 676958470.wem "005b - Glitterglaze Glacier - Crystalline Cave.wem"
+mv 297309298.wem "005b - Glitterglaze Glacier - Crystalline Cave (unlooped).wem"
+mv 231715424.wem "005f - Glitterglaze Glacier - Kartos Challenge.wem"
+
+mv 405732086.wem "005z - Glitterglaze Glacier - Boss (Brrreeze Blok).wem"
+mv 484951464.wem "005e - Glitterglaze Glacier - Aquatic.wem"
+
+
+
+mv 84745841.wem "006a - Moodymaze Marsh - Normal.wem"
+mv 69984211.wem "006b - Moodymaze Marsh - Deep Swamp.wem"
+mv 251664514.wem "006b - Moodymaze Marsh - Deep Swamp (unlooped).wem"
+mv 740929881.wem "006c - Moodymaze Marsh - Even Deeper Swap (expanded World).wem"
+mv 253636843.wem "006d - Moodymaze Marsh - Swampy Station.wem"
+mv 250663170.wem "006e - Moodymaze Marsh - Aquatic.wem"
+mv 995363164.wem "006f - Moodymaze Marsh - Kartos Challenge.wem"
+mv 1004707711.wem "006z - Moodymaze Marsh - Boss (Trev the Tenteyecle).wem"
+
+
+
+mv 717876552.wem "007a - Capital Cashino - Normal.wem"
+mv 334721071.wem "007b - Capital Cashino - Behind the scenes (Wager Laser, Power Grid).wem"
+mv 791763668.wem "007c - Capital Cashino - Safe Room.wem"
+mv 70864145.wem  "007d - Capital Cashino - Dance Floor.wem"
+mv 134263814.wem "007e - Capital Cashino - Aquatic.wem"
+mv 726122661.wem "007f - Capital Cashino - Kartos Challenge.wem"
+mv 592774655.wem "007g - Capital Cashino - Hurry.wem"
+mv 178163251.wem "007z - Capital Cashino - Boss (I.N.E.P.T).wem"
 
 mv 1015079427.wem "Dr. Quack's Quack-Fire Quiz.wem"
 mv 779320198.wem "Dr. Quack's Quack-Fire Quiz (again).wem"
@@ -225,14 +232,14 @@ mv 953233564.wem "Rextro Arcade - Blag The Flag (reverse2).wem"
 
 
 
-mv 594567569.wem "Galleon Galaxy - Normal.wem"
-mv 676601034.wem "Galleon Galaxy - Normal.wem"
-mv 101536534.wem "Galleon Galaxy - Aquatic.wem"
-mv 606852958.wem "Galleon Galaxy - Interior.wem"
-mv 1041573570.wem "Galleon Galaxy - Treasure Cave.wem"
-mv 288116429.wem "Galleon Galaxy - Sailing around.wem"
-mv 412038225.wem "Galleon Galaxy - Boss.wem"
-mv 234033844.wem "Galleon Galaxy - Kartos Challenge.wem"
+mv 594567569.wem "008a - Galleon Galaxy - Normal.wem"
+mv 676601034.wem "008a - Galleon Galaxy - Normal (again).wem"
+mv 288116429.wem "008b - Galleon Galaxy - Sailing around.wem"
+mv 606852958.wem "008c - Galleon Galaxy - Interior.wem"
+mv 1041573570.wem "008d - Galleon Galaxy - Treasure Cave.wem"
+mv 101536534.wem "008e - Galleon Galaxy - Aquatic.wem"
+mv 234033844.wem "008f - Galleon Galaxy - Kartos Challenge.wem"
+mv 412038225.wem "008z - Galleon Galaxy - Boss (Planette).wem"
 
 
 mv 1014835385.wem "Cutscene - Capital B Drinks The Tonic.wem"
