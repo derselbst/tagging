@@ -51,6 +51,9 @@ $PSFPOINT -title=Logo sparse36.miniusf
 $PSFPOINT -length=1:17 sparse37.miniusf
 $PSFPOINT -title=Drunken sparse37.miniusf
 
+$PSFPOINT -length=3:33 sparse41.miniusf
+$PSFPOINT -title="Surf Punks" sparse42.miniusf
+
 $PSFPOINT -length=4:30 sparse42.miniusf
 $PSFPOINT -title="Chucky Poo's Lament" sparse42.miniusf
 
