@@ -11,8 +11,6 @@
 # some files tagged with "not_used_by_game" because when doing a fuser *.wem I see
 # that these files are not opened though being in the respective world
 
-mv 22160869.wem "Rextro - ? (reverse).wem"
-mv 47632872.wem "Rextro - ?1 (reverse).wem"
 mv 49294568.wem "Ambiance - Water.wem"
 mv 847466896.wem "Ambiance - Water.wem"
 mv 53628394.wem "Ambiance - Thunder.wem"
@@ -43,6 +41,8 @@ mv 683031846.wem "Rextro - reve?r?se.wem"
 mv 783948087.wem "Rextro - ?reverse.wem"
 mv 795208762.wem "Rextro - ??reverse.wem"
 mv 911034296.wem "Rextro - rev.wem"
+mv 22160869.wem "Rextro - ? (reverse).wem"
+mv 47632872.wem "Rextro - ?1 (reverse).wem"
 
 mv 589136190.wem "Kartos Challenge - ?.wem"
 
@@ -75,9 +75,6 @@ rm 988991861.wem  # duplicate of 10057* (md5sum match)
 
 
 
-
-
-
 mv 722248606.wem "004a - Tribalstack Tropics - Normal (quieter,not_used_by_game).wem"
 mv 271662028.wem "004a - Tribalstack Tropics - Normal (Early?) (long,unlooped,fadeout,not_used_by_game).wem"
 mv 431661253.wem "004a - Tribalstack Tropics - Normal (not_used_by_game).wem"
@@ -98,9 +95,6 @@ mv 473513511.wem "004b - Tribalstack Tropics - Duke's Temple (again4, not_used_b
 mv 710135945.wem "004b - Tribalstack Tropics - Duke's Temple (again5, not_used_by_game).wem"
 mv 997014908.wem "004b - Tribalstack Tropics - Duke's Temple (again6, not_used_by_game).wem"
 
-
-
-
 mv 529464369.wem "004d - Tribalstack Tropics - Corplet Camp.wem"
 mv 257626415.wem "004d - Tribalstack Tropics - Corplet Camp (again, not_used_by_game).wem"
 mv 53635858.wem  "004d - Tribalstack Tropics - Corplet Camp (again2, not_used_by_game).wem"
@@ -109,8 +103,6 @@ mv 225243248.wem "004d - Tribalstack Tropics - Corplet Camp (again4, not_used_by
 mv 604947276.wem "004d - Tribalstack Tropics - Corplet Camp (again5, not_used_by_game).wem"
 mv 697174408.wem "004d - Tribalstack Tropics - Corplet Camp (again6, not_used_by_game).wem"
 mv 1004175105.wem "004d - Tribalstack Tropics - Corplet Camp (again7, not_used_by_game).wem"
-
-
 
 mv 398883026.wem "004c - Tribalstack Tropics - Monument Intro.wem"
 mv 162230282.wem "004c - Tribalstack Tropics - Monument Intro.wem"
@@ -121,9 +113,6 @@ mv 608537953.wem "004c - Tribalstack Tropics - Monument (again3, not_used_by_gam
 mv 922848822.wem "004c - Tribalstack Tropics - Monument (again4, not_used_by_game).wem"
 mv 956730973.wem "004c - Tribalstack Tropics - Monument (again5, not_used_by_game).wem"
 mv 1051348951.wem "004c - Tribalstack Tropics - Monument (again6, not_used_by_game).wem"
-
-
-
 
 mv 298777168.wem "004z - Tribalstack Tropics - Boss (The Great Rampo).wem"
 mv 386756905.wem "004z - Tribalstack Tropics - Boss (The Great Rampo) (again).wem"
@@ -181,8 +170,54 @@ mv 726122661.wem "007f - Capital Cashino - Kartos Challenge.wem"
 mv 592774655.wem "007g - Capital Cashino - Hurry.wem"
 mv 178163251.wem "007z - Capital Cashino - Boss (I.N.E.P.T).wem"
 
+
+mv 594567569.wem "008a - Galleon Galaxy - Normal.wem"
+mv 676601034.wem "008a - Galleon Galaxy - Normal (again).wem"
+mv 288116429.wem "008b - Galleon Galaxy - Sailing around.wem"
+mv 606852958.wem "008c - Galleon Galaxy - Interior.wem"
+mv 1041573570.wem "008d - Galleon Galaxy - Treasure Cave.wem"
+mv 101536534.wem "008e - Galleon Galaxy - Aquatic.wem"
+mv 234033844.wem "008f - Galleon Galaxy - Kartos Challenge.wem"
+mv 412038225.wem "008z - Galleon Galaxy - Boss (Planette).wem"
+
+
 mv 1015079427.wem "009 - Dr. Quack's Quack-Fire Quiz.wem"
 mv 779320198.wem "009 - Dr. Quack's Quack-Fire Quiz (again).wem"
+
+
+mv 782124416.wem "010a - Rextro Arcade - Normal.wem"
+mv 523359880.wem "010a - Rextro Arcade - Normal (again).wem"
+
+mv 996207960.wem "010b - Rextro Arcade - Kartos Karting.wem"
+mv 60249255.wem  "010b - Rextro Arcade - Kartos Karting (reverse).wem"
+mv 332178222.wem "010b - Rextro Arcade - Kartos Karting (reverse2).wem"
+mv 905636539.wem "010b - Rextro Arcade - Kartos Karting (reverse3).wem"
+
+mv 647222234.wem "010c - Rextro Arcade - Glaciators.wem"
+mv 143756378.wem "010c - Rextro Arcade - Glaciators (reverse).wem"
+mv 362717196.wem "010c - Rextro Arcade - Glaciators (reverse2).wem"
+
+mv 556002834.wem "010d - Rextro Arcade - Jobstacle Course (reverse).wem"
+mv 949309814.wem "010d - Rextro Arcade - Jobstacle Course.wem"
+mv 121161360.wem "010d - Rextro Arcade - Jobstacle Course (reverse2).wem"
+
+mv 565897698.wem "010e - Rextro Arcade - Bee Bop.wem"
+mv 793653577.wem "010e - Rextro Arcade - Bee Bop (reverse).wem"
+mv 615517057.wem "010e - Rextro Arcade - Bee Bop (reverse2).wem"
+
+mv 737521290.wem "010f - Rextro Arcade - Hurdle Hijinx.wem"
+mv 773695599.wem "010f - Rextro Arcade - Hurdle Hijinx (reverse).wem"
+
+mv 405609706.wem "010g - Rextro Arcade - Up'n Nova.wem"
+
+mv 745346874.wem "010g - Rextro Arcade - Gun-Tlet-Run.wem"
+mv 304269507.wem "010g - Rextro Arcade - Gun-Tlet-Run (reverse).wem"
+
+mv 722727372.wem "010h - Rextro Arcade - Blag The Flag.wem"
+mv 478008553.wem "010h - Rextro Arcade - Blag The Flag (reverse).wem"
+mv 953233564.wem "010h - Rextro Arcade - Blag The Flag (reverse2).wem"
+
+
 
 mv 581189516.wem "SFX - Jingle Bells.wem"
 mv 740153353.wem "SFX - Slurp Shot (Eating Berries).wem"
@@ -200,48 +235,7 @@ mv 766411029.wem "SFX - destroyed those speaking astroids.wem"
 mv 883279601.wem "SFX - Sonar 'Splosion.wem"
 mv 905180337.wem "SFX - Activate Totem.wem"
 
-mv 782124416.wem "010a - Rextro Arcade - Normal.wem"
-mv 523359880.wem "010a - Rextro Arcade - Normal (again).wem"
 
-mv 556002834.wem "010d - Rextro Arcade - Jobstacle Course (reverse).wem"
-mv 949309814.wem "010d - Rextro Arcade - Jobstacle Course.wem"
-mv 121161360.wem "010d - Rextro Arcade - Jobstacle Course (reverse2).wem"
-
-mv 745346874.wem "010g - Rextro Arcade - Gun-Tlet-Run.wem"
-mv 304269507.wem "010g - Rextro Arcade - Gun-Tlet-Run (reverse).wem"
-
-mv 565897698.wem "010e - Rextro Arcade - Bee Bop.wem"
-mv 793653577.wem "010e - Rextro Arcade - Bee Bop (reverse).wem"
-mv 615517057.wem "010e - Rextro Arcade - Bee Bop (reverse2).wem"
-
-mv 996207960.wem "010b - Rextro Arcade - Kartos Karting.wem"
-mv 60249255.wem  "010b - Rextro Arcade - Kartos Karting (reverse).wem"
-mv 332178222.wem "010b - Rextro Arcade - Kartos Karting (reverse2).wem"
-mv 905636539.wem "010b - Rextro Arcade - Kartos Karting (reverse3).wem"
-
-mv 647222234.wem "010c - Rextro Arcade - Glaciators.wem"
-mv 143756378.wem "010c - Rextro Arcade - Glaciators (reverse).wem"
-mv 362717196.wem "010c - Rextro Arcade - Glaciators (reverse2).wem"
-
-mv 405609706.wem "010g - Rextro Arcade - Up'n Nova.wem"
-
-mv 737521290.wem "010f - Rextro Arcade - Hurdle Hijinx.wem"
-mv 773695599.wem "010f - Rextro Arcade - Hurdle Hijinx (reverse).wem"
-
-mv 722727372.wem "010h - Rextro Arcade - Blag The Flag.wem"
-mv 478008553.wem "010h - Rextro Arcade - Blag The Flag (reverse).wem"
-mv 953233564.wem "010h - Rextro Arcade - Blag The Flag (reverse2).wem"
-
-
-
-mv 594567569.wem "008a - Galleon Galaxy - Normal.wem"
-mv 676601034.wem "008a - Galleon Galaxy - Normal (again).wem"
-mv 288116429.wem "008b - Galleon Galaxy - Sailing around.wem"
-mv 606852958.wem "008c - Galleon Galaxy - Interior.wem"
-mv 1041573570.wem "008d - Galleon Galaxy - Treasure Cave.wem"
-mv 101536534.wem "008e - Galleon Galaxy - Aquatic.wem"
-mv 234033844.wem "008f - Galleon Galaxy - Kartos Challenge.wem"
-mv 412038225.wem "008z - Galleon Galaxy - Boss (Planette).wem"
 
 
 mv 1014835385.wem "Cutscene - Capital B Drinks The Tonic.wem"
