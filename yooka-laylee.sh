@@ -36,6 +36,7 @@ mv 189166703.wem "Ambiance - Heavy Wind.wem"
 
 
 mv 589136190.wem "Kartos Challenge - ?.wem"
+mv 232061258.wem "Kartos Challenge - ??.wem"
 
 
 
@@ -96,7 +97,8 @@ mv 697174408.wem "004d - Tribalstack Tropics - Corplet Camp (again6, not_used_by
 mv 1004175105.wem "004d - Tribalstack Tropics - Corplet Camp (again7, not_used_by_game).wem"
 
 mv 398883026.wem "004c - Tribalstack Tropics - Monument Intro.wem"
-mv 162230282.wem "004c - Tribalstack Tropics - Monument Intro.wem"
+mv 162230282.wem "004c - Tribalstack Tropics - Monument Intro2.wem"
+mv 969611759.wem "004c - Tribalstack Tropics - Monument Intro3.wem"
 mv 287648828.wem "004c - Tribalstack Tropics - Monument.wem"
 mv 14799336.wem  "004c - Tribalstack Tropics - Monument (again, not_used_by_game).wem"
 mv 480460865.wem "004c - Tribalstack Tropics - Monument (again2, not_used_by_game).wem"
@@ -104,6 +106,8 @@ mv 608537953.wem "004c - Tribalstack Tropics - Monument (again3, not_used_by_gam
 mv 922848822.wem "004c - Tribalstack Tropics - Monument (again4, not_used_by_game).wem"
 mv 956730973.wem "004c - Tribalstack Tropics - Monument (again5, not_used_by_game).wem"
 mv 1051348951.wem "004c - Tribalstack Tropics - Monument (again6, not_used_by_game).wem"
+mv 118536890.wem  "004c - Tribalstack Tropics - Monument (again7, not_used_by_game).wem"
+
 
 mv 298777168.wem "004z - Tribalstack Tropics - Boss (The Great Rampo).wem"
 mv 386756905.wem "004z - Tribalstack Tropics - Boss (The Great Rampo) (again).wem"
@@ -149,6 +153,8 @@ mv 253636843.wem "006d - Moodymaze Marsh - Swampy Station.wem"
 mv 250663170.wem "006e - Moodymaze Marsh - Aquatic.wem"
 mv 995363164.wem "006f - Moodymaze Marsh - Kartos Challenge.wem"
 mv 1004707711.wem "006z - Moodymaze Marsh - Boss (Trev the Tenteyecle).wem"
+mv 328632575.wem "006z - Moodymaze Marsh - Boss Alternative (Trev the Tenteyecle).wem"
+
 
 
 
@@ -178,36 +184,51 @@ mv 779320198.wem "009 - Dr. Quack's Quack-Fire Quiz (again).wem"
 
 mv 782124416.wem "010a - Rextro Arcade - Normal.wem"
 mv 523359880.wem "010a - Rextro Arcade - Normal (again).wem"
+mv 1012144986.wem "010a - Rextro Arcade - Normal (again2).wem"
+
 
 mv 996207960.wem "011a - Rextro Arcade - Kartos Karting.wem"
 mv 60249255.wem  "011b - Rextro Arcade - Kartos Karting (reverse).wem"
 mv 332178222.wem "011c - Rextro Arcade - Kartos Karting (reverse2).wem"
 mv 905636539.wem "011d - Rextro Arcade - Kartos Karting (reverse3).wem"
+mv 511099044.wem "011e - Rextro Arcade - Kartos Karting (reverse4).wem"
+mv 1018588088.wem "011f - Rextro Arcade - Kartos Karting (reverse5).wem"
+mv 783948087.wem "011g - Rextro Arcade - Kartos Karting (reverse6).wem"
 
 mv 647222234.wem "012a - Rextro Arcade - Glaciators.wem"
 mv 143756378.wem "012b - Rextro Arcade - Glaciators (reverse).wem"
 mv 362717196.wem "012c - Rextro Arcade - Glaciators (reverse2).wem"
 mv 22160869.wem  "012d - Rextro Arcade - Glaciators (reverse3).wem"
 mv 72868789.wem  "012e - Rextro Arcade - Glaciators (reverse4).wem"
+mv 1069126312.wem "012f - Rextro Arcade - Glaciators (reverse5).wem"
 
 mv 949309814.wem "013a - Rextro Arcade - Jobstacle Course.wem"
-mv 556002834.wem "013b - Rextro Arcade - Jobstacle Course (reverse).wem"
-mv 121161360.wem "013c - Rextro Arcade - Jobstacle Course (reverse2).wem"
+mv 121161360.wem "013b - Rextro Arcade - Jobstacle Course (reverse).wem"
+mv 556002834.wem "013c - Rextro Arcade - Jobstacle Course (reverse2).wem"
 mv 911034296.wem "013d - Rextro Arcade - Jobstacle Course (reverse3).wem"
+mv 1029255641.wem "013e - Rextro Arcade - Jobstacle Course (reverse4).wem"
 
 mv 565897698.wem "014a - Rextro Arcade - Bee Bop.wem"
 mv 793653577.wem "014b - Rextro Arcade - Bee Bop (reverse).wem"
 mv 683031846.wem "014c - Rextro Arcade - Bee Bop (reverse2).wem"
 mv 47632872.wem  "014d - Rextro Arcade - Bee Bop (reverse3).wem"
+mv 538090783.wem "014e - Rextro Arcade - Bee Bop (reverse4).wem"
+mv 926548473.wem "014f - Rextro Arcade - Bee Bop (reverse5).wem"
+mv 1035426249.wem "014g - Rextro Arcade - Bee Bop (reverse6).wem" #sure
 
 mv 737521290.wem "015a - Rextro Arcade - Hurdle Hijinx.wem"
 mv 773695599.wem "015b - Rextro Arcade - Hurdle Hijinx (reverse).wem"
+mv 631007620.wem "015c - Rextro Arcade - Hurdle Hijinx (reverse2).wem"
+mv 609116138.wem "015d - Rextro Arcade - Hurdle Hijinx (reverse3).wem"
+mv 1058196123.wem "015e - Rextro Arcade - Hurdle Hijinx (reverse4).wem"
+mv 471112338.wem "015f - Rextro Arcade - Hurdle Hijinx (reverse5).wem"
 
-mv 405609706.wem "016a - Rextro Arcade - Up'n Nova.wem"
+mv 405609706.wem "016 - Rextro Arcade - Up'n Nova.wem"
 
 mv 745346874.wem "017a - Rextro Arcade - Gun-Tlet-Run.wem"
 mv 304269507.wem "017b - Rextro Arcade - Gun-Tlet-Run (reverse).wem"
 mv 677278999.wem "017c - Rextro Arcade - Gun-Tlet-Run (reverse2).wem"
+mv 706107125.wem "017d - Rextro Arcade - Gun-Tlet-Run (reverse3).wem"
 
 mv 722727372.wem "018a - Rextro Arcade - Blag The Flag.wem"
 mv 478008553.wem "018b - Rextro Arcade - Blag The Flag (reverse).wem"
@@ -215,9 +236,11 @@ mv 953233564.wem "018c - Rextro Arcade - Blag The Flag (reverse2).wem"
 mv 615517057.wem "018d - Rextro Arcade - Blag The Flag (reverse3).wem"
 mv 795208762.wem "018d - Rextro Arcade - Blag The Flag (reverse4).wem"
 
+865430140.wem
 
-mv 631007620.wem "Rextro - rev?er?se.wem"
-mv 783948087.wem "Rextro - ?reverse.wem"
+
+
+
 
 mv 581189516.wem "SFX - Jingle Bells.wem"
 mv 740153353.wem "SFX - Slurp Shot (Eating Berries).wem"
@@ -234,37 +257,32 @@ mv 540059236.wem "SFX - Challenge Completed.wem"
 mv 766411029.wem "SFX - destroyed those speaking astroids.wem"
 mv 883279601.wem "SFX - Sonar 'Splosion.wem"
 mv 905180337.wem "SFX - Activate Totem.wem"
-
-
+mv 17712708.wem "SFX - Quiz - Wrong Answer.wem"
+mv 389110418.wem "SFX - Time Up.wem"
+mv 1048738159.wem "SFX - Shooting Stars.wem"
 
 
 mv 1014835385.wem "Cutscene - Capital B Drinks The Tonic.wem"
 mv 112592897.wem "Ending - Grand Party.wem"
 mv 191161704.wem "Ending - Grand Party (again).wem"
+mv 733128434.wem "Ending - Grand Party (again2).wem"
+
 
 1005096691.wem
 1008935718.wem
 1010807917.wem
-1012144986.wem
 
 
-1018588088.wem
-1029255641.wem
-1035426249.wem
 1039566825.wem
-1048738159.wem
 
 105394285.wem
 1055128299.wem
 1055798865.wem
-1058196123.wem
 1066961635.wem
-1069126312.wem
 107947895.wem
 109632540.wem
 110665772.wem
 116497321.wem
-118536890.wem
 119481731.wem
 119931352.wem
 120153550.wem
@@ -280,7 +298,6 @@ mv 191161704.wem "Ending - Grand Party (again).wem"
 216346268.wem
 220691559.wem
 225660197.wem
-232061258.wem
 234021018.wem
 235243822.wem
 236003763.wem
@@ -295,7 +312,6 @@ mv 191161704.wem "Ending - Grand Party (again).wem"
 302365459.wem
 313799732.wem
 319733823.wem
-328632575.wem
 333680004.wem
 337472753.wem
 340906762.wem
@@ -305,7 +321,6 @@ mv 191161704.wem "Ending - Grand Party (again).wem"
 369864684.wem
 376828056.wem
 377232333.wem
-389110418.wem
 400363890.wem
 406479001.wem
 406587979.wem
@@ -315,7 +330,6 @@ mv 191161704.wem "Ending - Grand Party (again).wem"
 425157647.wem
 431439255.wem
 457968170.wem
-471112338.wem
 478721635.wem
 479353201.wem
 485085160.wem
@@ -325,20 +339,17 @@ mv 191161704.wem "Ending - Grand Party (again).wem"
 504929530.wem
 505173011.wem
 509096205.wem
-511099044.wem
 512189928.wem
 517798599.wem
 521037595.wem
 533380088.wem
 533849150.wem
-538090783.wem
 547612741.wem
 549400600.wem
 551659470.wem
 552625626.wem
 554160212.wem
 605193210.wem
-609116138.wem
 612946724.wem
 619703811.wem
 629873387.wem
@@ -353,12 +364,10 @@ mv 191161704.wem "Ending - Grand Party (again).wem"
 686836984.wem
 691969138.wem
 695192682.wem
-706107125.wem
 715352000.wem
 717672738.wem
 721125978.wem
 725652065.wem
-733128434.wem
 733296349.wem
 735617263.wem
 736186607.wem
@@ -384,7 +393,6 @@ mv 191161704.wem "Ending - Grand Party (again).wem"
 836398535.wem
 839239894.wem
 849647996.wem
-865430140.wem
 875728178.wem
 878104816.wem
 880777157.wem
@@ -397,7 +405,6 @@ mv 191161704.wem "Ending - Grand Party (again).wem"
 915098121.wem
 921848464.wem
 925526659.wem
-926548473.wem
 927464607.wem
 927972605.wem
 930992084.wem
@@ -408,7 +415,6 @@ mv 191161704.wem "Ending - Grand Party (again).wem"
 951630740.wem
 956995474.wem
 961257650.wem
-969611759.wem
 972374786.wem
 987976064.wem
 993276153.wem
