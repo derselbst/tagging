@@ -181,8 +181,8 @@ mv 726122661.wem "007f - Capital Cashino - Kartos Challenge.wem"
 mv 592774655.wem "007g - Capital Cashino - Hurry.wem"
 mv 178163251.wem "007z - Capital Cashino - Boss (I.N.E.P.T).wem"
 
-mv 1015079427.wem "Dr. Quack's Quack-Fire Quiz.wem"
-mv 779320198.wem "Dr. Quack's Quack-Fire Quiz (again).wem"
+mv 1015079427.wem "009 - Dr. Quack's Quack-Fire Quiz.wem"
+mv 779320198.wem "009 - Dr. Quack's Quack-Fire Quiz (again).wem"
 
 mv 581189516.wem "SFX - Jingle Bells.wem"
 mv 740153353.wem "SFX - Slurp Shot (Eating Berries).wem"
@@ -200,35 +200,37 @@ mv 766411029.wem "SFX - destroyed those speaking astroids.wem"
 mv 883279601.wem "SFX - Sonar 'Splosion.wem"
 mv 905180337.wem "SFX - Activate Totem.wem"
 
-mv 782124416.wem "Rextro Arcade - Normal.wem"
-mv 523359880.wem "Rextro Arcade - Normal (again).wem"
+mv 782124416.wem "010a - Rextro Arcade - Normal.wem"
+mv 523359880.wem "010a - Rextro Arcade - Normal (again).wem"
 
+mv 556002834.wem "010d - Rextro Arcade - Jobstacle Course (reverse).wem"
+mv 949309814.wem "010d - Rextro Arcade - Jobstacle Course.wem"
+mv 121161360.wem "010d - Rextro Arcade - Jobstacle Course (reverse2).wem"
 
-mv 556002834.wem "Rextro Arcade - Jobstacle Course (reverse).wem"
-mv 949309814.wem "Rextro Arcade - Jobstacle Course.wem"
-mv 121161360.wem "Rextro Arcade - Jobstacle Course (reverse2).wem"
+mv 745346874.wem "010g - Rextro Arcade - Gun-Tlet-Run.wem"
+mv 304269507.wem "010g - Rextro Arcade - Gun-Tlet-Run (reverse).wem"
 
-mv 745346874.wem "Rextro Arcade - Gun-Tlet-Run.wem"
-mv 304269507.wem "Rextro Arcade - Gun-Tlet-Run (reverse).wem"
-mv 565897698.wem "Rextro Arcade - Bee Bop.wem"
-mv 793653577.wem "Rextro Arcade - Bee Bop (reverse).wem"
-mv 615517057.wem "Rextro Arcade - Bee Bop (reverse2).wem"
+mv 565897698.wem "010e - Rextro Arcade - Bee Bop.wem"
+mv 793653577.wem "010e - Rextro Arcade - Bee Bop (reverse).wem"
+mv 615517057.wem "010e - Rextro Arcade - Bee Bop (reverse2).wem"
 
+mv 996207960.wem "010b - Rextro Arcade - Kartos Karting.wem"
+mv 60249255.wem  "010b - Rextro Arcade - Kartos Karting (reverse).wem"
+mv 332178222.wem "010b - Rextro Arcade - Kartos Karting (reverse2).wem"
+mv 905636539.wem "010b - Rextro Arcade - Kartos Karting (reverse3).wem"
 
-mv 996207960.wem "Rextro Arcade - Kartos Karting.wem"
-mv 60249255.wem  "Rextro Arcade - Kartos Karting (reverse).wem"
-mv 332178222.wem "Rextro Arcade - Kartos Karting (reverse2).wem"
-mv 905636539.wem "Rextro Arcade - Kartos Karting (reverse3).wem"
+mv 647222234.wem "010c - Rextro Arcade - Glaciators.wem"
+mv 143756378.wem "010c - Rextro Arcade - Glaciators (reverse).wem"
+mv 362717196.wem "010c - Rextro Arcade - Glaciators (reverse2).wem"
 
-mv 647222234.wem "Rextro Arcade - Glaciators.wem"
-mv 143756378.wem "Rextro Arcade - Glaciators (reverse).wem"
-mv 362717196.wem "Rextro Arcade - Glaciators (reverse2).wem"
-mv 405609706.wem "Rextro Arcade - Up'n Nova.wem"
-mv 737521290.wem "Rextro Arcade - Hurdle Hijinx.wem"
-mv 773695599.wem "Rextro Arcade - Hurdle Hijinx (reverse).wem"
-mv 722727372.wem "Rextro Arcade - Blag The Flag.wem"
-mv 478008553.wem "Rextro Arcade - Blag The Flag (reverse).wem"
-mv 953233564.wem "Rextro Arcade - Blag The Flag (reverse2).wem"
+mv 405609706.wem "010g - Rextro Arcade - Up'n Nova.wem"
+
+mv 737521290.wem "010f - Rextro Arcade - Hurdle Hijinx.wem"
+mv 773695599.wem "010f - Rextro Arcade - Hurdle Hijinx (reverse).wem"
+
+mv 722727372.wem "010h - Rextro Arcade - Blag The Flag.wem"
+mv 478008553.wem "010h - Rextro Arcade - Blag The Flag (reverse).wem"
+mv 953233564.wem "010h - Rextro Arcade - Blag The Flag (reverse2).wem"
 
 
 
