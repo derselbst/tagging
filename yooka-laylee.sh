@@ -10,6 +10,8 @@
 
 # some files tagged with "not_used_by_game" because when doing a fuser *.wem I see
 # that these files are not opened though being in the respective world
+#
+# many md5sum duplicates, meaning that either the .wem files itself have same md5sum or their decoded raw .wav files do
 
 mv 49294568.wem "Ambiance - Water.wem"
 mv 847466896.wem "Ambiance - Water.wem"
@@ -50,7 +52,7 @@ mv 942605757.wem "001b - Main Theme - Hurry2.wem"
 
 
 mv 393135791.wem "002a - Shipwreck Creek - Normal.wem"
-mv 968037953.wem "002a - Shipwreck Creek - Normal 48khz (unlooped).wem"
+mv 968037953.wem "002a - Shipwreck Creek - Normal (48khz) (unlooped).wem"
 mv 626606754.wem "002b - Shipwreck Creek - Aquatic.wem"
 
 mv 297472422.wem  "003a - Hivory Towers - Normal.wem"
@@ -67,14 +69,17 @@ rm 988991861.wem  # duplicate of 10057* (md5sum match)
 
 
 
-mv 722248606.wem "004a - Tribalstack Tropics - Normal (quieter,not_used_by_game).wem"
-mv 271662028.wem "004a - Tribalstack Tropics - Normal (Early?) (long,unlooped,fadeout,not_used_by_game).wem"
-mv 431661253.wem "004a - Tribalstack Tropics - Normal (not_used_by_game).wem"
-mv 570519491.wem "004a - Tribalstack Tropics - Normal (not_used_by_game2).wem"
-mv 726295195.wem "004a - Tribalstack Toopics - Normal (not_used_by_game3).wem"
+mv 271662028.wem "004a - Tribalstack Tropics - Normal (44.1kHz) (long,unlooped,fadeout,not_used_by_game).wem"
+
 mv 533380088.wem "004a - Tribalstack Tropics - Normal.wem"
-mv 972616824.wem "004a - Tribalstack Tropics - Normal (Intro).wem"
-mv 636337061.wem "004a - Tribalstack Tropics - Normal (unlooped).wem"
+rm 431661253.wem # duplicate of 533380088.wem (md5sum) "004a - Tribalstack Tropics - Normal (not_used_by_game).wem"
+rm 726295195.wem # duplicate of 533380088.wem (md5sum) "004a - Tribalstack Toopics - Normal (not_used_by_game3).wem"
+
+mv 570519491.wem "004a - Tribalstack Tropics - Normal (48kHz) (not_used_by_game2).wem"
+rm 722248606.wem # duplicate of 570519491.wem (md5sum) "004a - Tribalstack Tropics - Normal (quieter,not_used_by_game).wem"
+
+mv 972616824.wem "004a - Tribalstack Tropics - Normal (Intro) (48kHz).wem"
+mv 636337061.wem "004a - Tribalstack Tropics - Normal (48kHz) (unlooped, immediate_start).wem"
 
 mv 63269928.wem  "004e - Tribalstack Tropics - Aquatic.wem"
 mv 240416347.wem "004b - Tribalstack Tropics - Duke's Temple Intro.wem"
