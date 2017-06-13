@@ -85,38 +85,39 @@ mv 63269928.wem  "004e - Tribalstack Tropics - Aquatic.wem"
 mv 240416347.wem "004b - Tribalstack Tropics - Duke's Temple Intro.wem"
 mv 855337769.wem "004b - Tribalstack Tropics - Duke's Temple.wem"
 mv 162895803.wem "004b - Tribalstack Tropics - Duke's Temple (unlooped).wem"
-mv 630701173.wem "004b - Tribalstack Tropics - Duke's Temple (again, not_used_by_game).wem"
+rm 630701173.wem # duplicate of 855337769 (md5sum) "004b - Tribalstack Tropics - Duke's Temple (again, not_used_by_game).wem"
 mv 844016443.wem "004b - Tribalstack Tropics - Duke's Temple (again2, not_used_by_game).wem"
-mv 461690759.wem "004b - Tribalstack Tropics - Duke's Temple (again3, not_used_by_game).wem"
-mv 473513511.wem "004b - Tribalstack Tropics - Duke's Temple (again4, not_used_by_game).wem"
+rm 461690759.wem # duplicate of 844016443 (md5sum) "004b - Tribalstack Tropics - Duke's Temple (again3, not_used_by_game).wem"
+rm 473513511.wem # duplicate of 844016443 (md5sum) "004b - Tribalstack Tropics - Duke's Temple (again4, not_used_by_game).wem"
 mv 710135945.wem "004b - Tribalstack Tropics - Duke's Temple (again5, not_used_by_game).wem"
-mv 997014908.wem "004b - Tribalstack Tropics - Duke's Temple (again6, not_used_by_game).wem"
+rm 997014908.wem # duplicate of 710135945 (md5sum) "004b - Tribalstack Tropics - Duke's Temple (again6, not_used_by_game).wem"
 
 mv 529464369.wem "004d - Tribalstack Tropics - Corplet Camp.wem"
 mv 257626415.wem "004d - Tribalstack Tropics - Corplet Camp (again, not_used_by_game).wem"
-mv 53635858.wem  "004d - Tribalstack Tropics - Corplet Camp (again2, not_used_by_game).wem"
-mv 217686622.wem "004d - Tribalstack Tropics - Corplet Camp (again3, not_used_by_game).wem"
-mv 225243248.wem "004d - Tribalstack Tropics - Corplet Camp (again4, not_used_by_game).wem"
+rm 53635858.wem  # dup 604947276.wem "004d - Tribalstack Tropics - Corplet Camp (again2, not_used_by_game).wem"
+rm 217686622.wem # dup 604947276.wem "004d - Tribalstack Tropics - Corplet Camp (again3, not_used_by_game).wem"
+rm 225243248.wem # duplicate 257626415 "004d - Tribalstack Tropics - Corplet Camp (again4, not_used_by_game).wem"
 mv 604947276.wem "004d - Tribalstack Tropics - Corplet Camp (again5, not_used_by_game).wem"
 mv 697174408.wem "004d - Tribalstack Tropics - Corplet Camp (again6, not_used_by_game).wem"
 mv 1004175105.wem "004d - Tribalstack Tropics - Corplet Camp (again7, not_used_by_game).wem"
 
 mv 398883026.wem "004c - Tribalstack Tropics - Monument Intro.wem"
 mv 162230282.wem "004c - Tribalstack Tropics - Monument Intro2.wem"
+rm 993276153.wem # dup 162230282
 mv 969611759.wem "004c - Tribalstack Tropics - Monument Intro3.wem"
 mv 287648828.wem "004c - Tribalstack Tropics - Monument.wem"
 mv 14799336.wem  "004c - Tribalstack Tropics - Monument (again, not_used_by_game).wem"
 mv 480460865.wem "004c - Tribalstack Tropics - Monument (again2, not_used_by_game).wem"
-mv 608537953.wem "004c - Tribalstack Tropics - Monument (again3, not_used_by_game).wem"
-mv 922848822.wem "004c - Tribalstack Tropics - Monument (again4, not_used_by_game).wem"
-mv 956730973.wem "004c - Tribalstack Tropics - Monument (again5, not_used_by_game).wem"
+rm 608537953.wem # duplicate 14799336 "004c - Tribalstack Tropics - Monument (again3, not_used_by_game).wem"
+rm 922848822.wem # duplicate 287648828 (md5sum) "004c - Tribalstack Tropics - Monument (again4, not_used_by_game).wem"
+rm 956730973.wem # duplicate 287648828 (md5sum) "004c - Tribalstack Tropics - Monument (again5, not_used_by_game).wem"
 mv 1051348951.wem "004c - Tribalstack Tropics - Monument (again6, not_used_by_game).wem"
-mv 118536890.wem  "004c - Tribalstack Tropics - Monument (again7, not_used_by_game).wem"
+rm 118536890.wem # duplicate 287648828 (md5sum) "004c - Tribalstack Tropics - Monument (again7, not_used_by_game).wem"
 
 
 mv 298777168.wem "004z - Tribalstack Tropics - Boss (The Great Rampo).wem"
 mv 386756905.wem "004z - Tribalstack Tropics - Boss (The Great Rampo) (again).wem"
-mv 728916668.wem "004z - Tribalstack Tropics - Boss (The Great Rampo) (again2).wem"
+rm 728916668.wem # dup 386756905 "004z - Tribalstack Tropics - Boss (The Great Rampo) (again2).wem"
 
 mv 395580153.wem "004f - Tribalstack Tropics - Nimble Race 1.wem"
 mv 238147918.wem "004f - Tribalstack Tropics - Nimble Race 1 (again, unlooped).wem"
@@ -269,7 +270,7 @@ mv 1048738159.wem "SFX - Shooting Stars.wem"
 
 mv 1014835385.wem "Cutscene - Capital B Drinks The Tonic.wem"
 mv 112592897.wem "Ending - Grand Party.wem"
-mv 191161704.wem "Ending - Grand Party (again).wem"
+rm 191161704.wem # dup 112592897 "Ending - Grand Party (again).wem"
 mv 733128434.wem "Ending - Grand Party (again2).wem"
 
 
@@ -422,6 +423,5 @@ mv 733128434.wem "Ending - Grand Party (again2).wem"
 961257650.wem
 972374786.wem
 987976064.wem
-993276153.wem
 997760992.wem
 997850493.wem
