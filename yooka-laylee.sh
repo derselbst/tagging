@@ -99,12 +99,12 @@ rm 217686622.wem # dup 604947276.wem "004d - Tribalstack Tropics - Corplet Camp 
 rm 225243248.wem # duplicate 257626415 "004d - Tribalstack Tropics - Corplet Camp (again4, not_used_by_game).wem"
 mv 604947276.wem "004d - Tribalstack Tropics - Corplet Camp (again5, not_used_by_game).wem"
 mv 697174408.wem "004d - Tribalstack Tropics - Corplet Camp (again6, not_used_by_game).wem"
+mv 162230282.wem "004d - Tribalstack Tropics - Corplet Camp Intro.wem"
+mv 993276153.wem "004d - Tribalstack Tropics - Corplet Camp Intro2.wem"
 mv 1004175105.wem "004d - Tribalstack Tropics - Corplet Camp (again7, not_used_by_game).wem"
 
 mv 398883026.wem "004c - Tribalstack Tropics - Monument Intro.wem"
-mv 162230282.wem "004c - Tribalstack Tropics - Monument Intro2.wem"
-rm 993276153.wem # dup 162230282
-mv 969611759.wem "004c - Tribalstack Tropics - Monument Intro3.wem"
+mv 969611759.wem "004c - Tribalstack Tropics - Monument Intro2.wem"
 mv 287648828.wem "004c - Tribalstack Tropics - Monument.wem"
 mv 14799336.wem  "004c - Tribalstack Tropics - Monument (again, not_used_by_game).wem"
 mv 480460865.wem "004c - Tribalstack Tropics - Monument (again2, not_used_by_game).wem"
@@ -207,6 +207,7 @@ mv 362717196.wem "012c - Rextro Arcade - Glaciators (reverse2).wem"
 mv 22160869.wem  "012d - Rextro Arcade - Glaciators (reverse3).wem"
 mv 72868789.wem  "012e - Rextro Arcade - Glaciators (reverse4).wem"
 mv 1069126312.wem "012f - Rextro Arcade - Glaciators (reverse5).wem"
+mv 609116138.wem "012g - Rextro Arcade - Hurdle Hijinx (reverse6).wem"
 
 mv 949309814.wem "013a - Rextro Arcade - Jobstacle Course.wem"
 mv 121161360.wem "013b - Rextro Arcade - Jobstacle Course (reverse).wem"
@@ -225,9 +226,10 @@ mv 1035426249.wem "014g - Rextro Arcade - Bee Bop (reverse6).wem" #sure
 mv 737521290.wem "015a - Rextro Arcade - Hurdle Hijinx.wem"
 mv 773695599.wem "015b - Rextro Arcade - Hurdle Hijinx (reverse).wem"
 mv 631007620.wem "015c - Rextro Arcade - Hurdle Hijinx (reverse2).wem"
-mv 609116138.wem "015d - Rextro Arcade - Hurdle Hijinx (reverse3).wem"
+mv 865430140.wem "015d - Rextro Arcade - Hurdle Hijinx (reverse3).wem"
 mv 1058196123.wem "015e - Rextro Arcade - Hurdle Hijinx (reverse4).wem"
 mv 471112338.wem "015f - Rextro Arcade - Hurdle Hijinx (reverse5).wem"
+
 
 mv 405609706.wem "016 - Rextro Arcade - Up'n Nova.wem"
 
@@ -242,7 +244,6 @@ mv 953233564.wem "018c - Rextro Arcade - Blag The Flag (reverse2).wem"
 mv 615517057.wem "018d - Rextro Arcade - Blag The Flag (reverse3).wem"
 mv 795208762.wem "018d - Rextro Arcade - Blag The Flag (reverse4).wem"
 
-865430140.wem
 
 
 
