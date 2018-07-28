@@ -35,10 +35,12 @@ mv 983178884.wem "Ambiance - Wind2.wem"
 
 mv 186598022.wem "Ambiance - Swamp.wem"
 mv 189166703.wem "Ambiance - Heavy Wind.wem"
+mv 950477509.wem "Ambiance - Electricity.wem"
 
 
 mv 589136190.wem "Kartos Challenge - ?.wem"
 mv 232061258.wem "Kartos Challenge - ??.wem"
+mv 913469834.wem "Kartos Challenge - Success Jingle??.wem"
 
 
 
@@ -140,8 +142,9 @@ mv 357001001.wem "005a - Glitterglaze Glacier - Normal Intro.wem"
 mv 547612741.wem "005d - Glitterglaze Glacier - Gloomy Gem Grotto.wem"
 mv 693539848.wem "005d - Glitterglaze Glacier - Gloomy Gem Grotto (unlooped).wem"
 mv 1006406196.wem "005d - Glitterglaze Glacier - Gloomy Gem Grotto (Hurry).wem"
+mv 701458817.wem "005d - Glitterglaze Glacier - Gloomy Gem Grotto Intro.wem"
 
-mv 701458817.wem "005b - Glitterglaze Glacier - Crystalline Cave Intro.wem"
+mv 376828056.wem "005b - Glitterglaze Glacier - Crystalline Cave Intro.wem"
 mv 676958470.wem "005b - Glitterglaze Glacier - Crystalline Cave.wem"
 mv 297309298.wem "005b - Glitterglaze Glacier - Crystalline Cave (unlooped).wem"
 mv 231715424.wem "005f - Glitterglaze Glacier - Kartos Challenge.wem"
@@ -270,6 +273,7 @@ mv 1048738159.wem "SFX - Shooting Stars.wem"
 
 
 mv 1014835385.wem "Cutscene - Capital B Drinks The Tonic.wem"
+mv 925526659.wem "Cutscene - Capital B ??.wem"
 mv 112592897.wem "Ending - Grand Party.wem"
 rm 191161704.wem # dup 112592897 "Ending - Grand Party (again).wem"
 mv 733128434.wem "Ending - Grand Party (again2).wem"
@@ -326,7 +330,6 @@ mv 733128434.wem "Ending - Grand Party (again2).wem"
 351730250.wem
 369183907.wem
 369864684.wem
-376828056.wem
 377232333.wem
 400363890.wem
 406479001.wem
@@ -408,17 +411,14 @@ mv 733128434.wem "Ending - Grand Party (again2).wem"
 907736485.wem
 910619733.wem
 911768037.wem
-913469834.wem
 915098121.wem
 921848464.wem
-925526659.wem
 927464607.wem
 927972605.wem
 930992084.wem
 938733566.wem
 940311187.wem
 943527140.wem
-950477509.wem
 951630740.wem
 956995474.wem
 961257650.wem
